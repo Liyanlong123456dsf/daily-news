@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>每日早报 | 2026年4月14日 星期二</title>
+    <title>{{TITLE}}</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Serif+SC:wght@400;600;700&display=swap" rel="stylesheet">
@@ -473,28 +473,11 @@
     <header class="header">
         <div class="header-badge">今日已更新</div>
         <h1>📰 每日早报</h1>
-        <div class="header-date">2026年4月14日 星期二</div>
+        <div class="header-date">{{DATE}}</div>
     </header>
 
     <main class="container">
-        
-<div class="section">
-    <div class="section-header">
-        <div class="section-icon">📰</div>
-        <h2 class="section-title">一、综合要闻</h2>
-    </div>
-
-
-<div class="section section-ai">
-    <div class="section-header">
-        <div class="section-icon">🤖</div>
-        <h2 class="section-title">二、🤖 AI 板块</h2>
-    </div>
-
-<h3 style="font-size: 1.1rem; font-weight: 600; margin: 1.5rem 0 1rem; color: var(--text-primary);">1. AI 动态</h3>
-<h3 style="font-size: 1.1rem; font-weight: 600; margin: 1.5rem 0 1rem; color: var(--text-primary);">2. 🔥 本周 GitHub 热榜</h3>
-<h3 style="font-size: 1.1rem; font-weight: 600; margin: 1.5rem 0 1rem; color: var(--text-primary);">3. 🔍 AI 趋势观察</h3>
-</div>
+        {{CONTENT}}
     </main>
 
     <footer class="footer">
@@ -502,7 +485,7 @@
             数据来源：央视新闻、新华社、财联社、钛媒体、新浪财经、GitHub
         </div>
         <div class="footer-time">
-            由 AI 自动生成 · 2026年4月14日 星期二
+            由 AI 自动生成 · {{DATE}}
         </div>
     </footer>
 </body>
