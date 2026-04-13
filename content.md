@@ -1,0 +1,75 @@
+**📰 每日早报 | 2026年4月14日**
+
+---
+
+### 一、综合要闻
+
+1. **[中办、国办发文推动行业协会商会深化改革](https://www.cls.cn/detail/2342439)** — 中共中央办公厅、国务院办公厅发布《关于推动行业协会商会深化改革的意见》，提出建立健全党建引领、既注重积极培育发展又注重严格监督管理的制度体系。意见明确行业协会商会不得设立与会员有直接竞争关系的企业，积极支持在战略性新兴产业、未来产业、绿色低碳产业等领域依法设立行业协会商会。
+
+2. **[首季中国经济调研行：民生提质与产业升级的双向奔赴](https://www.news.cn/fortune/20260413/4e155c80b914499e8e2f6024ed84af89/c.html)** — "十五五"开局首季，各地坚持惠民生和促消费、投资于物和投资于人紧密结合，推动民生向暖与产业向新双向奔赴。今年前2个月，我国服务零售额同比增长5.6%，明显快于商品零售增速。新一轮以旧换新政策以更大力度支持绿色智能商品消费，为新产品、新技术提供更广阔的市场。
+
+3. **[李强同阿联酋阿布扎比王储哈立德会谈](https://www.chinanews.com.cn/gn/2026/04-13/10603127.shtml)** — 4月13日下午，国务院总理李强在北京人民大会堂同来华访问的阿联酋阿布扎比王储哈立德举行会谈。李强表示，中方愿同阿方夯实能源合作基础，拓展储能、氢能、新能源汽车、动力电池等领域合作。会谈后，两国共同见证签署农业、科技、投资、中医药等领域多项合作文件。
+
+4. **[我国加快推进分级诊疗 方便群众就医](https://news.cctv.com/2026/04/13/ARTIwNKTZyrhkDWy6QnzRgQi260413.shtml)** — 4月13日，国新办举行国务院政策例行吹风会，介绍《关于加快建设分级诊疗体系的若干措施》有关情况。国家卫生健康委相关负责人表示，我国将加快推进分级诊疗体系建设，构建有序的就医和诊疗新格局，通过优质医疗资源扩容和区域均衡布局，推动形成基层首诊、双向转诊、急慢分治、上下联动的分级诊疗模式。
+
+5. **[苹果首款智能眼镜曝光 预计2027年上市](https://www.cls.cn/detail/2342510)** — 科技记者马克·古尔曼透露，苹果首款智能眼镜（内部代号N50）已进入密集测试阶段，预计2027年上市。该产品并非AR眼镜，而是一款轻量化智能穿戴设备，需与iPhone深度整合使用，可实现拍照录像、接听电话、接收通知、播放音乐等功能。随着苹果、华为、阿里等头部厂商入局，智能眼镜赛道有望迎来引领性的"示范效应"。
+
+---
+
+### 二、🤖 AI 板块
+
+#### 1. AI 动态
+
+1. **[中科闻歌港股IPO备案通过，中国版Palantir来了](https://www.tmtpost.com/7950743.html)** — 中科院系AI公司中科闻歌正式递交港股招股书，专注决策智能领域。公司定位为"中国版Palantir"，2024年在中国企业级大模型驱动的决策智能服务商中排名第一，市场份额达11.4%，显示企业级决策AI受资本市场高度关注。
+
+2. **[奥特曼遭遇死亡威胁：凌晨家中被投燃烧瓶](https://www.qbitai.com/2026/04/399473.html)** — OpenAI CEO萨姆·奥特曼家中遭遇燃烧瓶袭击，嫌疑人已被逮捕。奥特曼发布长文回应，强调AI应普惠而非被少数人独占。这一事件反映出AI发展伴随的社会焦虑和对抗情绪，AI安全议题从虚拟走向现实。
+
+3. **[字节击败Sora，高兴的可能是腾讯](https://www.tmtpost.com/7951136.html)** — 字节跳动在视频生成领域持续突破，其AI视频生成能力被认为在某些场景下已超越OpenAI的Sora。这场竞赛正在重塑国内AI视频市场格局，腾讯等生态平台有望从内容繁荣中获益。
+
+4. **[SoftBank创建新公司开发'物理AI'](https://www.theverge.com/ai-artificial-intelligence/910879/softbank-creates-new-company-building-physical-ai)** — 软银集团宣布创建新公司开发"物理AI"，专注于具身智能和机器人技术。这是软银在AI领域的重要布局，预计将在制造业、物流等领域率先落地应用。
+
+5. **[Vercel CEO表示AI智能体推动收入激增，公司准备IPO](https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/)** — Vercel CEO Guillermo Rauch表示，AI智能体正在推动公司收入激增，公司已准备好进行IPO。Vercel作为前端开发者平台，正借助AI能力向更广泛的开发工具领域扩张。
+
+6. **[中国具身模型狂揽全球第一！机器人的人类数据时代来了](https://www.qbitai.com/2026/04/399417.html)** — 灵初智能发布全球首个大规模机器人轨迹数据集，在具身智能领域实现突破。该数据集涵盖丰富的真实人类操作数据，有望大幅提升机器人学习效率和泛化能力，标志着机器人进入"人类数据驱动"的新时代。
+
+7. **[Claude强到不敢发的Mythos，被质疑用了字节Seed技术](https://www.qbitai.com/2026/04/400500.html)** — Anthropic的Claude Mythos模型因能力过强而延迟发布，引发业界对其技术来源的质疑，有声音认为其可能采用了字节跳动Seed团队的技术。这一争议折射出当前大模型竞争的激烈程度和技术路线的趋同现象。
+
+8. **[那个做出可灵的人，回阿里又造了一匹黑马](https://www.tmtpost.com/7950831.html)** — 快手"可灵"视频生成模型核心负责人离职后回归阿里，正在打造新的AI视频生成产品。这一人才流动反映了国内AI视频赛道的激烈竞争，头部厂商持续加大投入争夺技术和人才制高点。
+
+9. **[超越人手！中国第一家脑机接口独角兽，要把仿生手带给机器人](https://www.qbitai.com/2026/04/399681.html)** — 强脑科技作为中国首家脑机接口独角兽企业，其仿生手技术已实现商业化，正在向机器人领域拓展。这一技术突破有望解决机器人精细操作能力不足的痛点，推动人形机器人向更实用方向发展。
+
+10. **[36.4万超声图文对！中国团队构建首个大规模超声专属数据集](https://www.qbitai.com/2026/04/399975.html)** — 中国研究团队发布首个大规模超声医学影像数据集，包含36.4万组超声图文对。这一数据集将大幅提升AI在超声诊断领域的准确性，推动医疗AI向更专业、更细分的领域深入发展。
+
+#### 2. 🔥 本周 GitHub 热榜
+
+- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** — 76,075 ⭐（今日+11,297），The agent that grows with you（与你共同成长的智能代理）
+
+- **[microsoft/markitdown](https://github.com/microsoft/markitdown)** — 106,676 ⭐（今日+2,811），Python tool for converting files and office documents to Markdown（将文件和办公文档转换为Markdown的Python工具）
+
+- **[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** — 90,141 ⭐，Real time face swap and one-click video deepfake with only a single image（实时换脸和一键视频深度伪造，仅需单张图片）
+
+- **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** — 52,673 ⭐（今日+3,185），A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI, and injects relevant context back into future sessions（自动捕获Claude编码会话的插件）
+
+- **[virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)** — 52,827 ⭐（今日+782），An AI Hedge Fund Team（AI对冲基金团队）
+
+- **[shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)** — 16,867 ⭐（今日+1,552），Kronos: A Foundation Model for the Language of Financial Markets（金融市场语言的基础模型）
+
+#### 3. 🔍 AI 趋势观察
+
+**具身智能与物理AI加速崛起，AI安全议题从虚拟走向现实**
+
+今日AI领域呈现出两条清晰的主线：一是具身智能/物理AI的爆发，二是AI发展带来的社会冲突加剧。
+
+在具身智能方向，软银宣布创建物理AI公司、灵初智能发布全球首个大规模机器人轨迹数据集、强脑科技将仿生手技术引入机器人，一系列动作标志着AI正在从数字世界走向物理世界。这一趋势背后是机器人产业对真实世界数据的渴求——正如灵初智能所言，机器人的"人类数据时代"已经到来。
+
+与此同时，奥特曼家中遭遇燃烧瓶袭击事件，将AI安全议题从网络空间拉到了现实生活。这一极端事件反映出AI快速发展带来的社会焦虑和分化。当一部分人拥抱AI带来的效率革命时，另一部分人看到的可能是失业威胁和权力集中。
+
+在资本层面，中科闻歌冲刺港股、Vercel准备IPO，显示企业级AI应用正获得资本市场认可。而GitHub热榜上，从智能代理到金融AI模型，开发者工具正在快速AI化。
+
+总的来说，AI正从技术竞赛进入应用落地与社会适应的深水区，技术突破与社会治理需要同步推进。
+
+---
+
+**数据来源：** [央视新闻](https://www.cctv.com)、[新华社](http://www.xinhuanet.com)、[财联社](https://www.cls.cn)、[钛媒体](https://www.tmtpost.com)、[量子位](https://www.qbitai.com)、[GitHub](https://github.com/trending)
+
+『PDF 排版版请收下一条』
