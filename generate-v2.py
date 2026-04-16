@@ -69,6 +69,22 @@ def parse_markdown_sections(md_content):
             
             subsection_title = line[4:].strip()
             html_parts.append(f'<h3 style="font-size: 1.1rem; font-weight: 600; margin: 1.5rem 0 1rem; color: var(--text-primary);">{subsection_title}</h3>')
+            current_section = subsection_title  # 更新当前板块
+            i += 1
+            continue
+        
+        # 处理四级标题 - 子子板块
+        if line.startswith('#### '):
+            if in_news_list:
+                html_parts.append('</div>')
+                in_news_list = False
+            if in_github_list:
+                html_parts.append('</div>')
+                in_github_list = False
+            
+            subsection_title = line[5:].strip()
+            html_parts.append(f'<h3 style="font-size: 1.1rem; font-weight: 600; margin: 1.5rem 0 1rem; color: var(--text-primary);">{subsection_title}</h3>')
+            current_section = subsection_title  # 更新当前板块以便 GitHub 热榜识别
             i += 1
             continue
         
@@ -130,9 +146,9 @@ def parse_markdown_sections(md_content):
             continue
         
         # 处理趋势观察
-        if line.startswith('### ') and ("趋势" in line or "观察" in line):
+        if (line.startswith('### ') or line.startswith('#### ')) and ("趋势" in line or "观察" in line):
             if not in_trend_box:
-                subsection_title = line[4:].strip()
+                subsection_title = line.strip('#').strip()
                 html_parts.append(f'''
 <div class="trend-box">
     <div class="trend-header">
@@ -145,14 +161,12 @@ def parse_markdown_sections(md_content):
             i += 1            
             # 收集段落内容
             trend_content = []
-            i += 1
             while i < len(lines) and not lines[i].strip().startswith('#') and not lines[i].strip().startswith('---'):
                 if lines[i].strip():
                     trend_content.append(lines[i].strip())
                 i += 1
-            
             if trend_content:
-                html_parts.append('<p>' + ' '.join(trend_content) + '</p>')
+                html_parts.append(f'<p>{" ".join(trend_content)}</p>')
             html_parts.append('</div></div>')
             in_trend_box = False
             continue
