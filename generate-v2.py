@@ -25,16 +25,18 @@ def parse_markdown_sections(md_content):
         
         # 处理一级标题 - 板块标题
         if line.startswith('## '):
-            # 关闭之前的列表
+            # 关闭之前的列表和section
             if in_news_list:
-                html_parts.append('</div>')
+                html_parts.append('</div>')  # 关闭 news-list
                 in_news_list = False
             if in_github_list:
-                html_parts.append('</div>')
+                html_parts.append('</div>')  # 关闭 github-list
                 in_github_list = False
             if in_trend_box:
-                html_parts.append('</div></div>')
+                html_parts.append('</div></div>')  # 关闭 trend-content 和 trend-box
                 in_trend_box = False
+            if current_section:
+                html_parts.append('</div>')  # 关闭 section
             
             section_title = line[3:].strip()
             section_class = "section"
@@ -47,8 +49,7 @@ def parse_markdown_sections(md_content):
                 section_class = "section section-ai"
                 section_icon = "🤖"
             
-            html_parts.append(f'''
-<div class="{section_class}">
+            html_parts.append(f'''<div class="{section_class}">
     <div class="section-header">
         <div class="section-icon">{section_icon}</div>
         <h2 class="section-title">{section_title}</h2>
