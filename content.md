@@ -1,27 +1,43 @@
 ## 📰 综合要闻
 
-1. **[美股收低，软件股领跌，纳指下跌逾200点](https://finance.sina.com.cn/stock/usstock/c/2026-04-24/doc-inhvpqks5083609.shtml)** — 中东霍尔木兹海峡局势紧张，油价上涨3.1%重燃通胀担忧，IBM收跌8.25%。
-2. **[OpenAI发布GPT-5.5，迄今最智能模型](https://www.ithome.com/0/942/841.htm)** — 主打Agent能力，全榜第一碾压Claude Opus 4.7，Token成本降至1/35。
-3. **[英特尔一季度营收超预期，盘后股价狂飙16%](https://finance.sina.com.cn/world/2026-04-24/doc-inhvpusq4963695.shtml)** — AI CPU需求引爆增长，数据中心业务成增长主力，年内股价涨幅超80%。
-4. **[特朗普称正考虑由美国政府收购Spirit Airlines](https://finance.sina.com.cn/world/2026-04-24/doc-inhvpusq4982463.shtml)** — 称买下后几乎没有债务负担，拥有不错飞机和优质资产，可在油价下跌时出售获利。
+1. **[美股收低软件股领跌 纳指下跌逾200点](https://finance.sina.com.cn/stock/usstock/c/2026-04-24/doc-inhvpqks5083609.shtml)** — 市场聚焦霍尔木兹海峡地缘风险，特朗普称已掌控海峡，能源供应中断担忧加剧。
+
+2. **[伊朗首席谈判代表辞职传闻致油价大涨，布伦特原油突破每桶104美元](https://finance.sina.com.cn/stock/usstock/c/2026-04-24/doc-inhvpqku3493560.shtml)** — 美伊停火期间相互封锁海峡，油轮交通量低迷，和平谈判陷入僵局。
+
+3. **[特朗普宣布以黎停火协议延长三周](https://finance.sina.com.cn/world/2026-04-24/doc-inhvpusk4592859.shtml)** — 双方上周达成的10天停火即将到期，特朗普称会晤进展顺利，期待促成更全面和平协议。
+
+4. **[美国司法部将医用大麻重新归类为低危险性毒品](https://finance.sina.com.cn/stock/usstock/c/2026-04-24/doc-inhvpqks5069150.shtml)** — 联邦大麻政策五十年来重大转变，为医用大麻经营者带来税收减免和科研便利。
+
+5. **[英特尔一季度营收超预期，AI CPU需求引爆盘后股价暴涨16%](https://finance.sina.com.cn/stock/usstock/c/2026-04-24/doc-inhvpqku3509398.shtml)** — 数据中心业务成增长主力，年内股价涨幅已超80%，但18A制程良品率仍是隐忧。
+
+---
 
 ## 🤖 AI 动态
 
-1. **[OpenAI发布GPT-5.5，Agent原生大脑登场](https://openai.com/index/introducing-gpt-5-5/)** — 自主规划、调用工具、持续执行，Terminal-Bench 2.0达82.7%，全面超越Claude Opus 4.7。
-2. **[腾讯混元Hy3 preview模型发布](https://www.21jingji.com/article/20260424/herald/4131bc5ee40a9a8ec7cf0f5a8dcb0514.html)** — 姚顺雨加盟后首交成绩单，快慢思考融合，总参数295B，最大支持256K上下文。
-3. **[黄仁勋要求英伟达全员使用OpenAI Codex](https://k.sina.com.cn/article_7857201856_1d45362c001904nxu6.html)** — 1万名员工已提前体验，涵盖工程、产品、法务、市场等各部门。
-4. **[山东诞生万亿市值AI巨头中际旭创](https://finance.sina.com.cn/wm/2026-04-24/doc-inhvpyyk8140092.shtml)** — 全省16地市AI产业链大图谱出炉，3.8万家相关企业约占全国1/15。
-5. **[Meta内部宣布将裁员10%以提升效率](https://finance.sina.com.cn/stock/usstock/c/2026-04-24/doc-inhvpqkn4687382.shtml)** — 弥补AI方面高额支出，此前已进行过多次裁员推进运营自动化。
-6. **[月之暗面公布补偿方案：全员额度重置](https://www.21jingji.com/article/20260424/herald/4131bc5ee40a9a8ec7cf0f5a8dcb0514.html)** — 新模型Kimi K2.6上线期间出现功能异常，向所有用户补偿使用额度。
+1. **[OpenAI 发布 GPT-5.5，距离打造AI超级应用再近一步](https://finance.sina.com.cn/world/2026-04-24/doc-inhvpusn8195278.shtml)** — 运算速度更快、逻辑更精准、令牌消耗更少，智能体化和自然交互计算实现重大突破。
+
+2. **[AI智能体"接管"电商生态，淘工厂发布"星火3.0"](http://finance.sina.com.cn/stock/t/2026-04-24/doc-inhvpkaq4816049.shtml)** — 为商家免费配置"1个AI店长+N个Agent助理"，基于产业带经营数据打造更聪明的电商AI。
+
+3. **[Meta宣布裁员10%以提升效率，约8000人受影响](https://finance.sina.com.cn/stock/usstock/c/2026-04-24/doc-inhvpqkn4687382.shtml)** — 同时不再招聘原计划填补的6000个空缺职位，以对冲AI方面的高额支出。
+
+4. **[汉诺威工业博览会：物理AI正嵌入工业体系全流程](http://www.news.cn/liangzi/20260424/b058459160d74cd1ba0aaf6dfeab0f53/c.html)** — 从"数字化"向"自治化"转变，认知机器人、工业智能体从展示性技术转向实际生产系统。
+
+5. **[中信证券：物理AI加速发展，场景落地有望提速](https://www.donews.com/news/detail/8/6526968.html)** — 具身智能、智能驾驶、工业制造等关键场景加快落地，2026年国产算力进入从"1到N"的加速放量阶段。
+
+6. **[英特尔CEO：CPU正重新确立其人工智能基础地位](http://k.sina.com.cn/article_5953189932_162d6782c067045fuq.html)** — 所有需求信号均表明CPU在AI时代作用将持续提升，AI业务已实现两位数同比增长。
 
 #### ⭐ GitHub 热榜
 
-- **[microsoft/markitdown](https://github.com/microsoft/markitdown)** — 文档转Markdown工具 ⭐ 115.9k
-- **[open-webui/open-webui](https://github.com/open-webui/open-webui)** — 用户友好的AI界面，支持Ollama/OpenAI API ⭐ 133.7k
-- **[sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)** — AI驱动舆情和趋势监视器，多平台聚合 ⭐ 54.9k
-- **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** — 免费使用claude-code终端/VSCode扩展 ⭐ 5.4k
-- **[AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)** — AI全自动短视频引擎 ⭐ 6.3k
+- **[google-ai-edge/gallery](https://github.com/google-ai-edge/gallery)** — Google官方AI参考应用，支持在Android/iOS设备端离线运行Gemma 4等大语言模型 ⭐ 20,100
+
+- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** — 跨平台持久化AI智能体，支持200+模型和40+内置工具，会话间保留用户画像不重置 ⭐ 50,400
+
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** — 香港大学开源AI教育平台，提供Chat、Deep Solve、Math Animator等五种学习模式 ⭐ 15,700
+
+- **[multica-ai/multica](https://github.com/multica-ai/multica)** — 将Claude Code、Codex等编码智能体集成到标准项目管理流程（看板、Issue追踪） ⭐ 5,400
+
+- **[666ghj/MiroFish](https://github.com/666ghj/MiroFish)** — 盛大集团支持的多智能体场景模拟引擎，数千个AI Agent在自定义场景中交互推演 ⭐ 数据待确认
 
 ### 🔮 AI 趋势观察
 
-OpenAI用GPT-5.5重新定义"工作"——不是聊天，而是自主规划、调用工具、持续执行的Agent。英伟达全员拥抱Codex、腾讯混元开源Hy3、山东跑出万亿AI巨头，三件事共同说明：2026年AI竞赛已从"模型跑分"转向"落地生产力"，谁能定义AI替人干活的方式，谁就定义下一代计算界面。
+OpenAI GPT-5.5 的发布标志着大模型从"更聪明"向"更好用"的范式转移——智能体化和自然交互成为新战场。与此同时，物理AI在汉诺威工博会上的全面渗透，以及国产算力（昇腾、英特尔AI CPU）的放量信号，表明AI正从数字世界加速下沉到物理世界的每一个角落。裁员与扩张并行的Meta，则折射出巨头们在AI军备竞赛中的成本焦虑。
