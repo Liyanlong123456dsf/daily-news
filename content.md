@@ -1,27 +1,27 @@
 ## 📰 综合要闻
 
-1. **[苹果换帅！库克9月卸任CEO，特努斯接任](https://www.apple.com)** — 库克任内苹果市值暴涨约24倍，新任CEO将推动AI布局，全新Siri将基于谷歌Gemini大模型。
-2. **[美伊谈判前景不明，停火协议即将到期](https://news.sina.com.cn)** — 特朗普称"极不可能"延长停火，伊朗做好军事对抗准备，霍尔木兹海峡局势持续紧张。
-3. **[宁德时代重要股东转让238亿元股票](https://finance.sina.com.cn)** — 吸引50名机构投资者参与，有效认购倍数2.1倍，一季度营收净利润双增。
-4. **[韩国股市涨超2%刷新纪录高位](https://finance.sina.com.cn)** — Kospi指数今年已上涨逾50%，成为全球表现最佳股市之一，芯片制造商贡献最大。
+1. **[美股收低，软件股领跌，纳指下跌逾200点](https://finance.sina.com.cn/stock/usstock/c/2026-04-24/doc-inhvpqks5083609.shtml)** — 中东霍尔木兹海峡局势紧张，油价上涨3.1%重燃通胀担忧，IBM收跌8.25%。
+2. **[OpenAI发布GPT-5.5，迄今最智能模型](https://www.ithome.com/0/942/841.htm)** — 主打Agent能力，全榜第一碾压Claude Opus 4.7，Token成本降至1/35。
+3. **[英特尔一季度营收超预期，盘后股价狂飙16%](https://finance.sina.com.cn/world/2026-04-24/doc-inhvpusq4963695.shtml)** — AI CPU需求引爆增长，数据中心业务成增长主力，年内股价涨幅超80%。
+4. **[特朗普称正考虑由美国政府收购Spirit Airlines](https://finance.sina.com.cn/world/2026-04-24/doc-inhvpusq4982463.shtml)** — 称买下后几乎没有债务负担，拥有不错飞机和优质资产，可在油价下跌时出售获利。
 
 ## 🤖 AI 动态
 
-1. **[荣耀人形机器人"闪电"半马破人类世界纪录](https://www.honor.com)** — 以50分26秒夺冠，具身智能进入实战成熟期，中国机器人技术再突破。
-2. **[自变量机器人完成近20亿元B轮融资](https://www.xsquare.ai)** — 集齐字节·美团·阿里·小米四大互联网巨头投资，估值突破百亿，创具身智能融资纪录。
-3. **[云算力全面涨价终结"价格倒挂"](https://www.aliyun.com)** — 阿里云AI算力最高涨幅+34%、百度云+30%，Token经济进入成本修正期。
-4. **[月之暗面发布Kimi K2.6](https://www.moonshot.cn)** — 推动Agent从"单打独斗"进入多智能体协作时代，300个Agent协同工作成为可能。
-5. **[华为发布智能世界2035系列报告](https://www.huawei.com)** — 探索AI与各行业深度融合路径，内蒙古正从"资源输出"转向"算力赋能"。
-6. **[斯坦福发布2026年人工智能指数报告](https://hai.stanford.edu)** — 中美模型性能差距基本收敛，全球算力与资本投入加速集中。
+1. **[OpenAI发布GPT-5.5，Agent原生大脑登场](https://openai.com/index/introducing-gpt-5-5/)** — 自主规划、调用工具、持续执行，Terminal-Bench 2.0达82.7%，全面超越Claude Opus 4.7。
+2. **[腾讯混元Hy3 preview模型发布](https://www.21jingji.com/article/20260424/herald/4131bc5ee40a9a8ec7cf0f5a8dcb0514.html)** — 姚顺雨加盟后首交成绩单，快慢思考融合，总参数295B，最大支持256K上下文。
+3. **[黄仁勋要求英伟达全员使用OpenAI Codex](https://k.sina.com.cn/article_7857201856_1d45362c001904nxu6.html)** — 1万名员工已提前体验，涵盖工程、产品、法务、市场等各部门。
+4. **[山东诞生万亿市值AI巨头中际旭创](https://finance.sina.com.cn/wm/2026-04-24/doc-inhvpyyk8140092.shtml)** — 全省16地市AI产业链大图谱出炉，3.8万家相关企业约占全国1/15。
+5. **[Meta内部宣布将裁员10%以提升效率](https://finance.sina.com.cn/stock/usstock/c/2026-04-24/doc-inhvpqkn4687382.shtml)** — 弥补AI方面高额支出，此前已进行过多次裁员推进运营自动化。
+6. **[月之暗面公布补偿方案：全员额度重置](https://www.21jingji.com/article/20260424/herald/4131bc5ee40a9a8ec7cf0f5a8dcb0514.html)** — 新模型Kimi K2.6上线期间出现功能异常，向所有用户补偿使用额度。
 
 #### ⭐ GitHub 热榜
 
-- **[obra/superpowers](https://github.com/obra/superpowers)** — Agentic技能框架与软件工程方法论 ⭐ 154.3k
-- **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** — Claude Code自动记忆插件，AI压缩并注入上下文 ⭐ 57.8k
-- **[virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)** — AI对冲基金团队模拟系统 ⭐ 55.1k
-- **[Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)** — 《动手学大模型》系列编程实践教程 ⭐ 29.4k
-- **[jamiepine/voicebox](https://github.com/jamiepine/voicebox)** — 开源语音合成工作室 ⭐ 18.2k
+- **[microsoft/markitdown](https://github.com/microsoft/markitdown)** — 文档转Markdown工具 ⭐ 115.9k
+- **[open-webui/open-webui](https://github.com/open-webui/open-webui)** — 用户友好的AI界面，支持Ollama/OpenAI API ⭐ 133.7k
+- **[sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)** — AI驱动舆情和趋势监视器，多平台聚合 ⭐ 54.9k
+- **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** — 免费使用claude-code终端/VSCode扩展 ⭐ 5.4k
+- **[AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)** — AI全自动短视频引擎 ⭐ 6.3k
 
 ### 🔮 AI 趋势观察
 
-具身智能迎来真正的"奥运日"：荣耀机器人半马破人类纪录证明技术 maturity，自变量集齐四大巨头融资标志资本共识形成，云算力涨价则宣告AI补贴时代结束。这三件事共同指向一个信号——AI正从"数字智能"全面迈向"物理智能"，产业链进入商业化加速期。对开发者而言，推理成本优化和边缘部署将成为2026年最热门的工程方向。
+OpenAI用GPT-5.5重新定义"工作"——不是聊天，而是自主规划、调用工具、持续执行的Agent。英伟达全员拥抱Codex、腾讯混元开源Hy3、山东跑出万亿AI巨头，三件事共同说明：2026年AI竞赛已从"模型跑分"转向"落地生产力"，谁能定义AI替人干活的方式，谁就定义下一代计算界面。
