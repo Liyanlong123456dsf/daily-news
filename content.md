@@ -1,28 +1,43 @@
 ## 📰 综合要闻
 
-1. **[A股回调，四大股指收跌，两市成交量达2.8万亿](https://finance.sina.com.cn/wm/2026-04-24/doc-inhvqfhh8071633.shtml)** — 美伊延长停火陷入僵局，原油走强，能源危机风险重燃，石化煤炭等能源板块走强。
-2. **[Anthropic二级市场估值飙升至1万亿美元，超越OpenAI](https://www.pedaily.cn/)** — 受营收激增及Claude Code热度驱动，股份"一筹难求"，卖家要价攀升至1.15万亿美元。
-3. **[英特尔一季度营收超预期，盘后股价狂飙16%](https://finance.sina.com.cn/world/2026-04-24/doc-inhvpusq4963695.shtml)** — AI CPU需求引爆增长，数据中心部门营收51亿美元，同比大增22%，CEO称客户需求巨大。
-4. **[特斯拉第三代人形机器人预计年中亮相，7-8月启动正式投产](https://www.pedaily.cn/)** — 50台Optimus Gen-3已在特斯拉上海超级工厂完成首批交付，工作节拍可达人工的85%。
-5. **[普华永道同意就恒大虚假财报赔偿10亿港元](https://finance.sina.com.cn/wm/2026-04-24/doc-inhvpyyh4544555.shtml)** — 另遭罚款3亿港元及停业6个月，被视为开创历史先河的赔偿。
+1. **[英特尔暴涨24%创1987年来最佳单日表现](https://finance.sina.com.cn/stock/usstock/c/2026-04-25/doc-inhvrxrq4334606.shtml)** — 一季报与二季度指引全面超预期，美股科技股表现分化
+
+2. **[谷歌计划向Anthropic投资高达400亿美元](https://finance.sina.com.cn/world/2026-04-25/doc-inhvrnzw3091410.shtml)** — 包括100亿美元立即注资和300亿美元条件性投资，强化AI竞赛布局
+
+3. **[英伟达市值时隔6个月再破5万亿美元](https://finance.sina.com.cn/stock/usstock/c/2026-04-25/doc-inhvrxrk4086321.shtml)** — 股价涨超4%创10月以来收盘历史新高，Blackwell架构成增长核心引擎
+
+4. **[商务部取消对欧盟两家金融机构反制措施](https://finance.sina.com.cn/jjxw/2026-04-25/doc-inhvrnzw3090686.shtml)** — 自2026年4月24日起施行，因欧盟已取消对中国两家金融机构的制裁
+
+5. **[美伊谈判动态：美国将派遣特使前往巴基斯坦](https://finance.sina.com.cn/world/2026-04-25/doc-inhvrtiu2993570.shtml)** — 特朗普称伊朗拟提出回应美方要求的提议，霍尔木兹海峡局势受关注
 
 ## 🤖 AI 动态
 
-1. **[OpenAI发布GPT-5.5，全榜第一碾压Claude Opus 4.7](https://openai.com/index/introducing-gpt-5-5/)** — Agent原生大脑登场，可自主规划、调用工具、持续执行近10小时长任务，Token成本降至1/35。
-2. **[姚顺雨首交成绩单，腾讯混元Hy3 preview模型发布并开源](https://www.21jingji.com/article/20260424/herald/4131bc5ee40a9a8ec7cf0f5a8dcb0514.html)** — 快慢思考融合MoE架构，总参数295B，激活21B，最大256K上下文，重建后首个模型。
-3. **[黄仁勋要求英伟达全员使用OpenAI Codex编程工具](https://k.sina.com.cn/article_7857201856_1d45362c001904nxu6.html)** — 1万名员工已提前体验，涵盖工程、产品、法务、市场等各部门，称"改变了我的生活"。
-4. **[Meta内部宣布将裁员10%以提升效率](https://finance.sina.com.cn/stock/usstock/c/2026-04-24/doc-inhvpqkn4687382.shtml)** — 约8000人受影响，不再招聘原计划填补的6000个空缺，以对冲AI方面的高额支出。
-5. **[诺基亚AI云业务爆发，Q1经营利润大增54%](https://wallstreetcn.com/articles/3770752)** — 股价创十六年来新高，AI与云相关订单单季突破10亿欧元，销售额增长49%。
-6. **[中际旭创市值破万亿，山东首家万亿AI巨头](https://wallstreetcn.com/articles/3770752)** — 苏州"半小时供应链圈"成为独有竞争力，山东3.8万家AI相关企业约占全国1/15。
+1. **[DeepSeek-V4预览版发布并开源](https://k.sina.com.cn/article_5953740931_162dee083067033hp6.html)** — 宣布"百万上下文时代"全面到来，昇腾首发适配
+
+2. **[DeepSeek被曝与腾讯、阿里洽谈首轮融资](https://k.sina.com.cn/article_5953740931_162dee083067033hp6.html)** — 两家投资方预计共计投资18亿美元，估值可能突破200亿美元
+
+3. **[SpaceX以600亿美元收购AI编程公司Cursor](https://www.tmtpost.com/7966852.html)** — Cursor 2025年ARR已达2亿美元，该交易推动AI编程板块整体上涨3.7%
+
+4. **[阶跃星辰启动股份制改造，计划年内港股IPO](https://k.sina.com.cn/article_5953190046_162d6789e06703123c.html)** — 董事长印奇同时担任千里科技董事长，形成"双董事长、双IPO"格局
+
+5. **[OpenAI GPT-5.5登陆微软Foundry平台](https://www.tmtpost.com/7966852.html)** — 支持100万token上下文窗口、多模态混合输入，推理延迟优化至450毫秒
+
+6. **[九成游戏开发商启用AI工具](https://www.tmtpost.com/7966852.html)** — 全球90%游戏开发商已在开发流程中使用AI，Embark Studios通过AI将场景设计周期从6周压缩至3天
+
+7. **[Anthropic承认Opus 4.6"降智"问题并公开道歉](https://wallstreetcn.com/articles/3770875)** — 三项工程Bug叠加导致，已修复并为所有订阅用户重置使用额度
 
 #### ⭐ GitHub 热榜
 
-- **[microsoft/markitdown](https://github.com/microsoft/markitdown)** — 文档转Markdown工具 ⭐ 115.9k
-- **[open-webui/open-webui](https://github.com/open-webui/open-webui)** — 用户友好的AI界面，支持Ollama/OpenAI API ⭐ 133.7k
-- **[sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)** — AI驱动舆情和趋势监视器，多平台聚合 ⭐ 54.9k
-- **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** — 免费使用claude-code终端/VSCode扩展 ⭐ 5.4k
-- **[AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)** — AI全自动短视频引擎 ⭐ 6.3k
+- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** — 自适应个人Agent框架，支持跨会话记忆持久化 ⭐ 50,400+
+
+- **[obra/superpowers](https://github.com/obra/superpowers)** — Agentic技能框架与软件开发方法论，强制AI遵循TDD等工程规范 ⭐ 2,299（今日新增）
+
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** — Claude Code生态系统综合性能优化方案 ⭐ 148,591
+
+- **[browser-use/browser-use](https://github.com/browser-use/browser-use)** — 让网站对AI Agent可访问的web自动化工具 ⭐ 86,809
+
+- **[OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)** — AI驱动的综合开发平台，IDE替代方案 ⭐ 70,919
 
 ### 🔮 AI 趋势观察
 
-OpenAI用GPT-5.5重新定义"工作"——不是聊天，而是自主规划、调用工具、持续执行的Agent。英伟达全员拥抱Codex、腾讯混元开源Hy3、Anthropic估值反超OpenAI至万亿，三件事共同说明：2026年AI竞赛已从"模型跑分"转向"落地生产力"，谁先定义AI替人干活的方式，谁就定义下一代计算界面。
+AI Agent基础设施成为本周绝对焦点。从hermes-agent的爆发式增长到superpowers等技能框架的涌现，开发者正从"通用聊天机器人"向"领域特定自主系统"演进。与此同时，巨头资本密集下注AI——谷歌400亿美元投资Anthropic、SpaceX 600亿美元收购Cursor，标志着AI竞赛已从模型能力比拼全面转向底层算力与工程生态的锁定。
