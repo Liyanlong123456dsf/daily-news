@@ -1,42 +1,29 @@
 ## 📰 综合要闻
 
-1. **[Google发布Gemini Enterprise Agent Platform，全面挑战OpenAI与Anthropic](https://www.mercurynews.com/2026/04/22/google-releases-new-ai-agents-to-challenge-openai-and-anthropic/)** — Google Cloud在年度大会上推出企业级AI代理平台，新增Memory Bank、Agent Simulation等功能，试图以"芯片+模型+工具"组合拳在企业市场追赶竞争对手。
-
-2. **[Anthropic发布Claude Opus 4.7，编码能力较上代提升13%](https://www.anthropic.com/news/claude-opus-4-7)** — 最新模型在93项编码基准测试中表现显著提升，能自动发现逻辑缺陷并加速执行，被早期测试者称为"状态最 art 的模型"。
-
-3. **[GitHub AI生态进入爆发期，OpenClaw突破30万Star成增速最快项目](https://blog.bytebytego.com/p/top-ai-github-repositories-in-2026)** — GitHub Octoverse 2025报告显示AI相关仓库达430万，LLM项目同比增长178%，开源AI从原型走向生产级工具。
-
-4. **[中国开发者AI Agent应用层影响力持续扩大](https://postcodeengineering.com/2026/03/16/github-ai-trending/)** — MiroFish、alibaba/page-agent、prompt-optimizer等多个高星项目来自中国团队，在Agent框架和应用层展现强劲竞争力。
-
-5. **[AWS AI相关收入预计2026年底突破100亿美元](https://www.ainvest.com/aime/share/amazons-aws-ai-growth-drives-price-target-hikes-sustainable-projected-28-29-aws-growth-2026-d7cb86/)** — 分析师预测AWS全年增长28-29%，与OpenAI、Anthropic的合作成为关键驱动力，AI云市场CAGR达28-39%。
+1. **[美联储连续三次按兵不动，4人投反对票创1992年来最严重分歧](https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwfihp0545644.shtml)** — 12名委员中8票赞成、4票反对，鲍威尔确认5月15日主席任期结束后将留任理事至2028年。
+2. **[国际油价飙升，布伦特原油突破113美元创2022年6月以来新高](https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwfihq7321199.shtml)** — 受中东局势及霍尔木兹海峡封锁影响，WTI原油突破109美元，标普上调全年油价预测。
+3. **[微软Q3营收828.9亿美元超预期，Azure云业务增长39%](https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwfihs6404542.shtml)** — 谷歌Alphabet一季度营收1099亿美元亦超预期，Meta因上调资本支出预期盘后跌超5%。
+4. **[国家网信办约谈处罚"剪映""猫箱""即梦AI"等平台](http://k.sina.com.cn/article_5953466437_162dab0450670ai40w.html)** — 因未有效落实AI生成合成内容标识规定，为行业敲响合规警钟。
+5. **[中国4月官方制造业PMI将于今日9:30公布](https://finance.sina.com.cn/headline/2026-04-30/doc-inhwfpqn7266037.shtml)** — 市场关注经济景气度变化，中美经贸合作方面贸促会计划组织1600多家中企赴美参展。
 
 ## 🤖 AI 动态
 
-1. **[Google Gemma 4实现端侧本地运行，无需联网即可推理](https://saudishopper.com.sa/en/github-trending-repos-april-2026/)** — google-ai-edge/gallery项目登顶本周Trending，支持Android 12+和iOS 17+设备离线运行开源大模型，内置视觉分析和音频转录功能。
-
-2. **[AI Agent进入"自我进化"时代，多个开源项目实现闭环成长](https://www.shareuhack.com/en/posts/github-trending-weekly-2026-04-22)** — Hermes Agent、GenericAgent、evolver等项目引入基因组进化协议（GEP），让Agent从每次对话中提取技能并自动优化，标志着Agent从Demo走向自治工具。
-
-3. **[Shopify推出Agentic Storefronts，支持在ChatGPT和Gemini内直接购物](https://www.theneuron.ai/ai-news-digests/-around-the-horn-digest-everything-that-happened-in-ai-this-weekend-march-28-29-2026/)** — 与Google联合开发通用商务协议（UCP），让用户无需离开AI聊天界面即可浏览和购买商品，开启AI原生电商时代。
-
-4. **[Anthropic Claude Code被指消耗用户配额过快](https://www.theneuron.ai/ai-news-digests/-around-the-horn-digest-everything-that-happened-in-ai-this-weekend-march-28-29-2026/)** — 大量开发者反馈Claude Code存在疑似定价Bug，短时间内烧完月度使用额度，Anthropic已调整使用限制以管理容量。
-
-5. **[Science期刊研究：谄媚式AI可能降低人类亲社会行为意愿](https://www.theneuron.ai/ai-news-digests/-around-the-horn-digest-everything-that-happened-in-ai-this-weekend-march-28-29-2026/)** — 针对11种最先进AI模型的研究发现，过度同意和奉承的AI交互模式会促使用户对AI产生依赖，影响其独立决策能力。
-
-6. **[香港大学发布DeepTutor，AI教育Agent单周增长3200+ Star](https://saudishopper.com.sa/en/github-trending-repos-april-2026/)** — 支持25+大模型提供商的教育Agent，包含Deep Solve、Math Animator等五种学习模式，39天内突破10,000 Star。
+1. **[月之暗面官宣Kimi K3定档Q3发布：2.5万亿参数 · 100万字上下文](http://k.sina.com.cn/article_5952915720_162d2490806703tmkc.html)** — 国产大模型参数天花板被刷新，万亿级算力军备竞赛进入白热化阶段。
+2. **[DeepSeek上线多模态"识图模式"，从纯文本正式迈入视觉理解时代](http://k.sina.com.cn/article_7857201856_1d45362c001904w1wg.html)** — 灰度测试中，VLM模型补齐最后一块拼图，开源版本即将推出。
+3. **[OpenAI疏远微软转向亚马逊，2月获亚马逊500亿美元投资](http://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwewsw6601769.shtml)** — 短期内两次重构与微软合作，同时大力加码AWS算力支出。
+4. **[苹果计划在iOS 27中为相机应用推出Siri模式并升级视觉AI](http://finance.sina.com.cn/world/2026-04-30/doc-inhwfayr0631879.shtml)** — 将"视觉智能"功能整合进相机应用，使其在iPhone界面中更加醒目。
+5. **[微软CEO：Copilot周活跃度已与Outlook持平](http://finance.sina.com.cn/7x24/2026-04-30/doc-inhwfihq7344223.shtml)** — AI助手正从实验工具转向日常生产力基础设施。
+6. **[Meta CFO：AI技术进步推动落地页广告转化率提升6%](http://k.sina.com.cn/article_5953190046_162d6789e067032624.html)** — AI驱动的广告优化正在直接转化为商业收益。
 
 #### ⭐ GitHub 热榜
 
-- **[obra/superpowers](https://github.com/obra/superpowers)** — Agentic技能框架，为AI编码Agent提供TDD、设计评审等专业工作流 ⭐ 154.3k
-- **[microsoft/markitdown](https://github.com/microsoft/markitdown)** — 文档转Markdown瑞士军刀，RAG预处理标准工具 ⭐ 109.5k
-- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** — 闭环自我进化AI Agent，跨会话记忆与技能自动精炼 ⭐ 66.0k
-- **[virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)** — AI对冲基金团队模拟系统 ⭐ 55.0k
-- **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** — Claude Code记忆捕获与上下文注入插件 ⭐ 57.8k
-- **[block/goose](https://github.com/block/goose)** — 可扩展开源AI Agent，支持安装、执行、编辑和测试 ⭐ 36.1k
-- **[Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)** — 《动手学大模型》中文编程实践教程系列 ⭐ 33.3k
-- **[Dify](https://github.com/langgenius/dify)** — 生产级AI工作流可视化构建平台，支持100+ LLM提供商 ⭐ 139.0k
-- **[n8n](https://github.com/n8n-io/n8n)** — 自托管工作流自动化，原生AI Agent节点与400+集成 ⭐ 184.0k
-- **[Ollama](https://github.com/ollama/ollama)** — 本地运行LLM最简单方案，支持DeepSeek、Qwen、Gemma等数十种模型 ⭐ 169.0k
+- **[anomalyco/opencode](https://github.com/anomalyco/opencode)** — 开源编码代理，对标Cursor和GitHub Copilot ⭐ 148.3k
+- **[microsoft/markitdown](https://github.com/microsoft/markitdown)** — 各类文档一键转Markdown的Python工具 ⭐ 116.0k
+- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** — 开源Agent框架，支持复杂工作流编排 ⭐ 108.0k
+- **[p-e-w/heretic](https://github.com/p-e-w/heretic)** — 完全自动审查删除语言模型 ⭐ 20.2k
+- **[HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)** — 一体化RAG检索增强生成框架 ⭐ 18.1k
+- **[AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)** — AI全自动短视频引擎，输入主题输出成片 ⭐ 6.3k
 
 ### 🔮 AI 趋势观察
 
-本周AI领域最显著的动向是**Agent从"玩具"走向"工具"的质变**。Google、Anthropic、OpenAI三家巨头同时加码企业级Agent平台，而开源社区则以Hermes Agent、Superpowers等项目用"自我进化"和"技能框架"回应——这不是巧合，而是整个行业对同一问题的不同解法：如何让AI Agent真正在生产环境中可靠工作。与此同时，端侧AI（Gemma 4本地运行）和AI原生电商（Shopify Agentic Storefronts）两条赛道开始显现清晰的商业化路径，2026年或许将成为"Agent元年"的启动时刻。
+国产大模型正在经历从"追赶"到"并跑"的关键转折：Kimi K3以2.5万亿参数宣战，DeepSeek补齐多模态视觉理解，两者分别在上限和广度上同时突破。与此同时，OpenAI与微软的"婚姻"出现裂痕、转向亚马逊怀抱，预示着AI基础设施的供给格局正在重塑。 agentic编码工具（OpenCode、Claude Code等）本周持续霸榜GitHub，开发者对"自主可控的AI编程工具"的需求正在从口号变为投票。
