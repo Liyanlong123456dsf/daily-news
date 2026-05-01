@@ -1,29 +1,40 @@
+# 2026年5月1日 每日早报
+
 ## 📰 综合要闻
 
-1. **[美联储连续三次按兵不动，4人投反对票创1992年来最严重分歧](https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwfihp0545644.shtml)** — 12名委员中8票赞成、4票反对，鲍威尔确认5月15日主席任期结束后将留任理事至2028年。
-2. **[国际油价飙升，布伦特原油突破113美元创2022年6月以来新高](https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwfihq7321199.shtml)** — 受中东局势及霍尔木兹海峡封锁影响，WTI原油突破109美元，标普上调全年油价预测。
-3. **[微软Q3营收828.9亿美元超预期，Azure云业务增长39%](https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwfihs6404542.shtml)** — 谷歌Alphabet一季度营收1099亿美元亦超预期，Meta因上调资本支出预期盘后跌超5%。
-4. **[国家网信办约谈处罚"剪映""猫箱""即梦AI"等平台](http://k.sina.com.cn/article_5953466437_162dab0450670ai40w.html)** — 因未有效落实AI生成合成内容标识规定，为行业敲响合规警钟。
-5. **[中国4月官方制造业PMI将于今日9:30公布](https://finance.sina.com.cn/headline/2026-04-30/doc-inhwfpqn7266037.shtml)** — 市场关注经济景气度变化，中美经贸合作方面贸促会计划组织1600多家中企赴美参展。
+1. **[中国对53个非洲建交国全面实施零关税](https://cn.chinadiplomacy.org.cn/2026-04/28/content_118468542.shtml)** — 全球首个对所有非洲建交国实现单方面零关税的主要经济体，深圳湾口岸迎来首票进口南非苹果通关。
+
+2. **[苹果发布Q2财报并批准千亿股票回购](https://finance.sina.cn/headline/2026-05-01/detail-inhwiwvr0816547.d.html)** — EPS达2.01美元超预期，净利润295.78亿美元；宣布1000亿美元回购计划并提高派息。
+
+3. **[Alphabet股价暴涨10%单日增4210亿美元市值](https://finance.sina.cn/headline/2026-05-01/detail-inhwiwvr0816547.d.html)** — 创史上第二高单日市值增幅，股价达384.80美元，总市值4.65万亿美元逼近英伟达。
+
+4. **[美股三大股指集体收涨道指涨1.62%](https://finance.sina.cn/headline/2026-05-01/detail-inhwiwvr0816547.d.html)** — 标普500涨1.02%，纳指涨0.89%；高通涨超15%，"七姐妹"中微软、英伟达、Meta下跌。
+
+5. **[现货黄金突破4630美元/盎司](https://finance.sina.cn/headline/2026-05-01/detail-inhwiwvr0816547.d.html)** — 国际贵金属持续走强，纽约期银突破75美元/盎司，日内涨幅1.80%。
 
 ## 🤖 AI 动态
 
-1. **[月之暗面官宣Kimi K3定档Q3发布：2.5万亿参数 · 100万字上下文](http://k.sina.com.cn/article_5952915720_162d2490806703tmkc.html)** — 国产大模型参数天花板被刷新，万亿级算力军备竞赛进入白热化阶段。
-2. **[DeepSeek上线多模态"识图模式"，从纯文本正式迈入视觉理解时代](http://k.sina.com.cn/article_7857201856_1d45362c001904w1wg.html)** — 灰度测试中，VLM模型补齐最后一块拼图，开源版本即将推出。
-3. **[OpenAI疏远微软转向亚马逊，2月获亚马逊500亿美元投资](http://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwewsw6601769.shtml)** — 短期内两次重构与微软合作，同时大力加码AWS算力支出。
-4. **[苹果计划在iOS 27中为相机应用推出Siri模式并升级视觉AI](http://finance.sina.com.cn/world/2026-04-30/doc-inhwfayr0631879.shtml)** — 将"视觉智能"功能整合进相机应用，使其在iPhone界面中更加醒目。
-5. **[微软CEO：Copilot周活跃度已与Outlook持平](http://finance.sina.com.cn/7x24/2026-04-30/doc-inhwfihq7344223.shtml)** — AI助手正从实验工具转向日常生产力基础设施。
-6. **[Meta CFO：AI技术进步推动落地页广告转化率提升6%](http://k.sina.com.cn/article_5953190046_162d6789e067032624.html)** — AI驱动的广告优化正在直接转化为商业收益。
+1. **[GPT-5.5系统指令意外泄露引发热议](https://k.sina.com.cn/article_5952915720_162d2490806703u1j8.html)** — OpenAI Codex CLI开源曝光底层指令，包含"严禁谈论哥布林"等离谱禁令，被指优先级与核心安全规范平起平坐。
+
+2. **[美国参议院支持AI儿童安全立法](https://finance.sina.com.cn/stock/bxjj/2026-05-01/doc-inhwifxu6009892.shtml)** — 两党一致支持法案，要求OpenAI、Meta等AI公司阻止未成年人使用AI聊天机器人，禁止提供AI陪伴服务。
+
+3. **[数字中国峰会：AI迈向"能说会做"新阶段](https://k.sina.com.cn/article_7857201856_1d45362c001904xa70.html)** — 腾讯展出WorkBuddy、QClaw等智能体可自动完成文档处理；蚂蚁"灵光"App一句话30秒生成小程序。
+
+4. **[Meta计划借助AI开发多款全新应用](https://finance.sina.com.cn/7x24/2026-05-01/doc-inhwispt0897143.shtml)** — 市场消息称Meta将利用人工智能技术打造多款全新应用产品。
+
+5. **[工信部推进"人工智能+软件"专项行动](https://www.stcn.com/article/detail/3869481.html)** — 开展智能编程研发应用，培育模型即服务、智能体即服务等新业态，加快工业互联网创新发展。
+
+6. **[艺电85%质检工作已应用AI技术](https://finance.sina.com.cn/roll/2026-05-01/doc-inhwifxx1108534.shtml)** — EA首席执行官透露AI辅助增效并未减少岗位，反而增加了质检部门招聘需求。
 
 #### ⭐ GitHub 热榜
 
-- **[anomalyco/opencode](https://github.com/anomalyco/opencode)** — 开源编码代理，对标Cursor和GitHub Copilot ⭐ 148.3k
-- **[microsoft/markitdown](https://github.com/microsoft/markitdown)** — 各类文档一键转Markdown的Python工具 ⭐ 116.0k
-- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** — 开源Agent框架，支持复杂工作流编排 ⭐ 108.0k
-- **[p-e-w/heretic](https://github.com/p-e-w/heretic)** — 完全自动审查删除语言模型 ⭐ 20.2k
-- **[HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)** — 一体化RAG检索增强生成框架 ⭐ 18.1k
-- **[AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)** — AI全自动短视频引擎，输入主题输出成片 ⭐ 6.3k
+- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** — 具有持久记忆和用户画像的AI智能代理，支持200+模型和40+工具 ⭐ 50.4k
+- **[google-ai-edge/gallery](https://github.com/google-ai-edge/gallery)** — 端侧GenAI用例库，Android/iOS本地运行Gemma 4等开源大模型 ⭐ 20.1k
+- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** — 代理原生个性化AI学习助手，支持25+大模型和动画故事板 ⭐ 15.7k
+- **[Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)** — OpenAI Codex扩展平台，添加hooks、代理团队和HUD高级功能 ⭐ 19.6k
+- **[onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)** — 开源AI平台，接入所有主流LLM，内置RAG和团队协作 ⭐ 26.1k
+- **[obra/superpowers](https://github.com/obra/superpowers)** — AI编码智能体的完整软件工程工作流框架，强制执行TDD最佳实践 ⭐ 154.3k
 
 ### 🔮 AI 趋势观察
 
-国产大模型正在经历从"追赶"到"并跑"的关键转折：Kimi K3以2.5万亿参数宣战，DeepSeek补齐多模态视觉理解，两者分别在上限和广度上同时突破。与此同时，OpenAI与微软的"婚姻"出现裂痕、转向亚马逊怀抱，预示着AI基础设施的供给格局正在重塑。 agentic编码工具（OpenCode、Claude Code等）本周持续霸榜GitHub，开发者对"自主可控的AI编程工具"的需求正在从口号变为投票。
+2026年AI正从"能对话"全面进化到"能执行"。Agent框架爆发式增长——hermes-agent单周暴涨近2万星成为全站第一，MCP协议成为中国互联网巨头卡位新战场（阿里云、腾讯云、支付宝、字节、百度均已入局）。端侧AI同步成熟，Google AI Edge双项目上榜，本地模型推理正走向主流开发者。智能体不再只是玩具，而是成为真正的生产性基础设施。
