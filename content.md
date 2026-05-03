@@ -1,28 +1,38 @@
 ## 📰 综合要闻
 
-1. **[何立峰会见比利时副首相兼外交大臣普雷沃](http://www.people.com.cn/GB/59476/index.html)** — 深化中比经贸合作，推动中欧关系稳定发展
-2. **["五一"假期首日全社会跨区域人员流动量创新高](http://www.people.com.cn/GB/59476/index.html)** — 假期消费复苏势头强劲，旅游市场迎来爆发式增长
-3. **[英特尔股价突破100美元创历史新高](https://finance.sina.cn/)** — 市值超5000亿美元，AI芯片业务推动业绩强劲反弹
-4. **[特朗普称美军完成历史上最大胆的搜救行动之一](https://www.sohu.com/a/1005743265_122014422)** — 成功营救两名在伊朗境内被击落战机的美军飞行员
-5. **[以媒：美国可能即将决定是否重启对伊朗军事行动](https://www.163.com/dy/article/KRS97L2C05568W0A.html)** — 美伊谈判面临破裂风险，中东局势再度紧张
+1. **[特朗普称不排除恢复对伊朗打击，美伊谈判陷入僵局](https://sputniknews.cn/20260503/1071074618.html)** — 伊朗4月30日提交新谈判方案，特朗普称"不满意"，同时不排除军事打击可能，霍尔木兹海峡局势持续紧张。
+
+2. **[伯克希尔股东大会落幕，现金储备创纪录3973.8亿美元](https://finance.sina.com.cn/headline/2026-05-03/doc-inhwqetr5106143.shtml)** — 一季度营业利润113.5亿美元同比增长18%，但股价表现落后于标普500指数。
+
+3. **["AI巴菲特"深度伪造视频惊现股东大会，AI网络安全风险引关注](https://finance.sina.com.cn/wm/2026-05-03/doc-inhwpucz1391821.shtml)** — CEO阿贝尔澄清视频未经授权，指出深度伪造是伯克希尔全域面临的重大风险，计划重点在保险业务落地技术防护。
+
+4. **[胡塞武装导弹袭击以色列机场，内塔尼亚胡誓言报复](https://www.163.com/dy/article/KS06JRGF05568W0A.html)** — 也门胡塞武装向以色列发射导弹落在主要机场附近，以色列总理称将对胡塞武装及其"伊朗恐怖主子"予以回击。
+
+5. **[比特币升破79000美元，黄金创史上最大双月跌幅](https://finance.sina.com.cn/headline/2026-05-03/doc-inhwqetr5106143.shtml)** — 国际金价3-4月累计大跌11.77%，交易商押注全球央行加息；比特币日内涨1.02%突破79000美元关口。
 
 ## 🤖 AI 动态
 
-1. **[Meta收购机器人AI初创公司Assured Robot Intelligence](http://finance.sina.com.cn/stock/t/2026-05-02/doc-inhwmvnq5031791.shtml)** — Meta加码人形机器人底层技术布局，交易已于5月1日完成
-2. **[OpenAI宣布关停Sora视频生成业务](http://finance.sina.com.cn/jjxw/2026-05-02/doc-inhwmzut2765352.shtml)** — 从惊艳全球到仓促关停仅用两年，OpenAI转而聚焦机器人等核心产品
-3. **[Anthropic寻求超9000亿美元估值新一轮融资](http://finance.sina.com.cn/jjxw/2026-05-02/doc-inhwmzun4922802.shtml)** — 若成功将超越OpenAI成为全球估值最高的纯AI初创公司
-4. **[美国国防部与7家AI公司达成合作协议](http://finance.sina.com.cn/jjxw/2026-05-02/doc-inhwmzun4918650.shtml)** — 包括SpaceX、OpenAI、谷歌、英伟达等，将AI技术部署至机密网络用于作战行动
-5. **[特斯拉第三代人形机器人预计7-8月投产](http://k.sina.com.cn/article_7857141524_1d4527714019021mma.html)** — 采用最新手部设计，预计明年投入外部场景应用
-6. **[我国AI商业化规模化应用取得阶段性突破](http://finance.sina.com.cn/jjxw/2026-05-02/doc-inhwmzun4917319.shtml)** — 截至今年3月日均词元调用量突破140万亿，比上年末增长超40%
+1. **[三大AI编程工具集中发布，AI编程进入"Agent并行"时代](https://blog.csdn.net/aibridge/article/details/160722148)** — Cursor 3发布Glass界面+多Agent并行协作，TRAE SOLO（字节跳动）推出免费端到端自动化模式，Claude Code正式GA并标配百万Token上下文。
+
+2. **[DeepSeek-V4开源并全面适配华为昇腾，国产大模型进入"Day0适配"阶段](https://k.sina.com.cn/article_7857141524_1d45277140190233ka.html)** — 从底层算子到通信协议原生协同，摆脱英伟达"后补式"迁移，实现开箱即用的高性能。
+
+3. **[DeepSeek多模态新范式：在推理中直接画图框标注，准确率大幅提升](https://finance.sina.com.cn/wm/2026-05-03/doc-inhwpucz1391821.shtml)** — 教AI在推理想法中直接画框框、标点点，解决传统多模态模型"看似流畅实则数错"的痛点。
+
+4. **[中国AI营销市场规模达636亿元，AI推荐转化率超传统搜索4倍](https://blog.csdn.net/aibridge/article/details/160722148)** — 生成式AI用户规模达5.15亿，68%用户根据AI推荐完成购买，传统"投广告-买流量"模式加速失效。
+
+5. **[国产大模型周调用量4.69万亿Token登顶全球，GEO优化逻辑升级](https://blog.csdn.net/aibridge/article/details/160722148)** — 连续两周超越美国（4.21万亿Token），全球TOP10中占据6席，信息筛选逻辑从关键词匹配升级为语义向量理解。
+
+6. **[智元远征A3人形机器人亮相上海大剧院，首次进入剧院空间](https://k.sina.com.cn/article_7857201856_1d45362c00190506ge.html)** — 身着黑色斗篷、泛着星际蓝光，机器人与主持人实时互动并参与即兴问答与舞蹈展示。
 
 #### ⭐ GitHub 热榜
 
-- **[obra/superpowers](https://github.com/obra/superpowers)** — AI编码Agent完整工作流框架，强制TDD和设计评审 ⭐ 154.3k
-- **[google-ai-edge/gallery](https://github.com/google-ai-edge/gallery)** — 在Android/iOS设备本地运行Gemma 4等开源大模型 ⭐ 20.1k
-- **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** — 港大开发的AI原生教育平台，支持25+大模型 ⭐ 15.7k
-- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** — 跨平台持久化AI助手，支持200+模型和40+内置工具 ⭐ 50.4k
-- **[multica-ai/multica](https://github.com/multica-ai/multica)** — 将Claude Code/Codex等编码Agent集成到项目管理工作流 ⭐ 5.4k
+- **[n8n-io/n8n](https://github.com/n8n-io/n8n)** — 工作流自动化平台，原生AI Agent节点，400+应用集成 ⭐ ~184k
+- **[ollama/ollama](https://github.com/ollama/ollama)** — 本地LLM一键运行工具，支持DeepSeek、Qwen等数十种模型 ⭐ ~169k
+- **[langgenius/dify](https://github.com/langgenius/dify)** — 可视化AI工作流构建平台，内置RAG与100+LLM提供商支持 ⭐ ~139k
+- **[open-webui/open-webui](https://github.com/open-webui/open-webui)** — 本地模型ChatGPT风格界面，支持RAG文档对话与语音功能 ⭐ ~132k
+- **[browser-use/browser-use](https://github.com/browser-use/browser-use)** — 让任意LLM控制浏览器完成网页操作与数据提取 ⭐ ~88k
+- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** — Python Agent框架，跨平台支持200+模型，单周新增32k星 ⭐ ~65k
 
 ### 🔮 AI 趋势观察
 
-OpenAI关停Sora转向机器人的战略收缩，与Meta、特斯拉加速人形机器人布局形成鲜明对比，表明行业正从"全能生成式AI"向"实体智能"战略转移。同时Anthropic寻求万亿级估值、美国国防部大规模采购AI作战系统，显示AI军备竞赛已进入国家安全和地缘政治层面，商业化落地与战略竞争正在同步加速。
+2026年5月初，AI领域呈现三大关键信号：一是编程工具从"代码补全"全面升级为"自主Agent"，多Agent并行与端到端自动化成为新标准；二是国产大模型在调用量和适配深度上双重突破，周调用量登顶全球并进入"Day0原生适配"阶段；三是AI营销获客市场高速扩张至636亿元规模，AI推荐转化率已达传统搜索4倍以上，传统数字营销格局正在被重新定义。
