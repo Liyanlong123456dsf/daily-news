@@ -1,38 +1,43 @@
+# 📰 每日早报 — 2026年5月6日
+
+> 数据来源：综合新闻检索 | AI动态检索 | GitHub Trending
+
+---
+
 ## 📰 综合要闻
 
-1. **[特朗普称不排除恢复对伊朗打击，美伊谈判陷入僵局](https://sputniknews.cn/20260503/1071074618.html)** — 伊朗4月30日提交新谈判方案，特朗普称"不满意"，同时不排除军事打击可能，霍尔木兹海峡局势持续紧张。
+1. **[特朗普宣布暂停"自由计划"行动](https://cn.chinadaily.com.cn/c/5bd54ba2a3101a87ca8ff5ee/5bd54bdea3101a87ca8ff5f0)** — 美伊霍尔木兹海峡紧张局势现缓和信号，国际油价应声大跌
+2. **[伊朗外长阿拉格齐5月6日应邀访华](https://news.bjd.com.cn/2026/05/06/11727682.shtml)** — 中国外长王毅将同其举行会谈，中东外交斡旋持续
+3. **[五一假期全社会跨区域人员流动量超15.17亿人次](https://politics.people.com.cn/n1/2026/0506/c461001-40714607.html)** — 日均超3亿人次，创历史同期新高，文旅消费全面迸发
+4. **[湖南浏阳烟花厂爆炸致26死61伤](https://news.bjd.com.cn/2026/05/06/11727682.shtml)** — 国务院将成立事故调查组，严肃追责问责
+5. **[A股5月6日迎开门红，科创50涨超9%](https://m.sohu.com/a/1019016919_122014422)** — 算力租赁、芯片概念爆发，全市场超3800只个股上涨
 
-2. **[伯克希尔股东大会落幕，现金储备创纪录3973.8亿美元](https://finance.sina.com.cn/headline/2026-05-03/doc-inhwqetr5106143.shtml)** — 一季度营业利润113.5亿美元同比增长18%，但股价表现落后于标普500指数。
-
-3. **["AI巴菲特"深度伪造视频惊现股东大会，AI网络安全风险引关注](https://finance.sina.com.cn/wm/2026-05-03/doc-inhwpucz1391821.shtml)** — CEO阿贝尔澄清视频未经授权，指出深度伪造是伯克希尔全域面临的重大风险，计划重点在保险业务落地技术防护。
-
-4. **[胡塞武装导弹袭击以色列机场，内塔尼亚胡誓言报复](https://www.163.com/dy/article/KS06JRGF05568W0A.html)** — 也门胡塞武装向以色列发射导弹落在主要机场附近，以色列总理称将对胡塞武装及其"伊朗恐怖主子"予以回击。
-
-5. **[比特币升破79000美元，黄金创史上最大双月跌幅](https://finance.sina.com.cn/headline/2026-05-03/doc-inhwqetr5106143.shtml)** — 国际金价3-4月累计大跌11.77%，交易商押注全球央行加息；比特币日内涨1.02%突破79000美元关口。
+---
 
 ## 🤖 AI 动态
 
-1. **[三大AI编程工具集中发布，AI编程进入"Agent并行"时代](https://blog.csdn.net/aibridge/article/details/160722148)** — Cursor 3发布Glass界面+多Agent并行协作，TRAE SOLO（字节跳动）推出免费端到端自动化模式，Claude Code正式GA并标配百万Token上下文。
+1. **[Anthropic年化营收ARR达440亿美元，估值冲击9000亿美元上市](https://www.chinaventure.com.cn/news/80-20260506-391241.html)** — 受益于Claude Code爆发，已超越OpenAI；亚马逊追加250亿美元投资，谷歌承诺400亿美元
+2. **[OpenAI发布GPT-5.5 Instant成ChatGPT默认模型](https://www.tmtpost.com/7977089.html)** — AIME数学测试得分81.2（提升15.8分），MMMU-Pro多模态推理76.0分，敏感领域幻觉减少
+3. **[Anthropic与黑石、高盛成立新AI服务公司](https://finance.sina.com.cn/tech/digi/2026-05-06/doc-inhwuxfk7297977.shtml)** — 面向中型企业落地Claude定制解决方案，企业级市场扩张加速
+4. **[OpenAI 2026年算力支出将达500亿美元](https://www.tmtpost.com/7977089.html)** — AI基础设施竞争进入新阶段，推理业务毛利率已超70%
+5. **[Meta推出代理型AI助手Hatch，谷歌开发7×24小时Gemini个人代理](https://www.tmtpost.com/7977089.html)** — 智能体赛道全面升温，各大厂纷纷布局全天候AI代理
 
-2. **[DeepSeek-V4开源并全面适配华为昇腾，国产大模型进入"Day0适配"阶段](https://k.sina.com.cn/article_7857141524_1d45277140190233ka.html)** — 从底层算子到通信协议原生协同，摆脱英伟达"后补式"迁移，实现开箱即用的高性能。
-
-3. **[DeepSeek多模态新范式：在推理中直接画图框标注，准确率大幅提升](https://finance.sina.com.cn/wm/2026-05-03/doc-inhwpucz1391821.shtml)** — 教AI在推理想法中直接画框框、标点点，解决传统多模态模型"看似流畅实则数错"的痛点。
-
-4. **[中国AI营销市场规模达636亿元，AI推荐转化率超传统搜索4倍](https://blog.csdn.net/aibridge/article/details/160722148)** — 生成式AI用户规模达5.15亿，68%用户根据AI推荐完成购买，传统"投广告-买流量"模式加速失效。
-
-5. **[国产大模型周调用量4.69万亿Token登顶全球，GEO优化逻辑升级](https://blog.csdn.net/aibridge/article/details/160722148)** — 连续两周超越美国（4.21万亿Token），全球TOP10中占据6席，信息筛选逻辑从关键词匹配升级为语义向量理解。
-
-6. **[智元远征A3人形机器人亮相上海大剧院，首次进入剧院空间](https://k.sina.com.cn/article_7857201856_1d45362c00190506ge.html)** — 身着黑色斗篷、泛着星际蓝光，机器人与主持人实时互动并参与即兴问答与舞蹈展示。
+---
 
 #### ⭐ GitHub 热榜
 
-- **[n8n-io/n8n](https://github.com/n8n-io/n8n)** — 工作流自动化平台，原生AI Agent节点，400+应用集成 ⭐ ~184k
-- **[ollama/ollama](https://github.com/ollama/ollama)** — 本地LLM一键运行工具，支持DeepSeek、Qwen等数十种模型 ⭐ ~169k
-- **[langgenius/dify](https://github.com/langgenius/dify)** — 可视化AI工作流构建平台，内置RAG与100+LLM提供商支持 ⭐ ~139k
-- **[open-webui/open-webui](https://github.com/open-webui/open-webui)** — 本地模型ChatGPT风格界面，支持RAG文档对话与语音功能 ⭐ ~132k
-- **[browser-use/browser-use](https://github.com/browser-use/browser-use)** — 让任意LLM控制浏览器完成网页操作与数据提取 ⭐ ~88k
-- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** — Python Agent框架，跨平台支持200+模型，单周新增32k星 ⭐ ~65k
+- **[obra/superpowers](https://github.com/obra/superpowers)** — Agentic技能框架与软件开发方法论 ⭐ 154.2k
+- **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** — AI代理创建、部署和运行时管理平台 ⭐ 182k
+- **[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** — Stable Diffusion本地图像生成控制台 ⭐ 162k
+- **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** — 多智能体交易框架，模拟真实对冲基金架构 ⭐ 62.6k
+- **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** — Claude Code记忆插件，自动捕获并注入历史上下文 ⭐ 57.8k
+
+---
 
 ### 🔮 AI 趋势观察
 
-2026年5月初，AI领域呈现三大关键信号：一是编程工具从"代码补全"全面升级为"自主Agent"，多Agent并行与端到端自动化成为新标准；二是国产大模型在调用量和适配深度上双重突破，周调用量登顶全球并进入"Day0原生适配"阶段；三是AI营销获客市场高速扩张至636亿元规模，AI推荐转化率已达传统搜索4倍以上，传统数字营销格局正在被重新定义。
+Anthropic凭借Claude Code在企业级编程助手赛道实现弯道超车，年化营收从300亿跃升至440亿美元，估值逼近9000亿美元。OpenAI则以GPT-5.5 Instant回应，数学和多模态能力显著提升。两家巨头都在冲刺IPO，AI行业正从"模型竞赛"进入"商业化变现"的白热化阶段。
+
+---
+
+*早报由 AI 自动整理生成 | 2026-05-06*
