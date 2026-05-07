@@ -1,43 +1,44 @@
-# 📰 每日早报 — 2026年5月6日
-
-> 数据来源：综合新闻检索 | AI动态检索 | GitHub Trending
-
----
-
 ## 📰 综合要闻
 
-1. **[特朗普宣布暂停"自由计划"行动](https://cn.chinadaily.com.cn/c/5bd54ba2a3101a87ca8ff5ee/5bd54bdea3101a87ca8ff5f0)** — 美伊霍尔木兹海峡紧张局势现缓和信号，国际油价应声大跌
-2. **[伊朗外长阿拉格齐5月6日应邀访华](https://news.bjd.com.cn/2026/05/06/11727682.shtml)** — 中国外长王毅将同其举行会谈，中东外交斡旋持续
-3. **[五一假期全社会跨区域人员流动量超15.17亿人次](https://politics.people.com.cn/n1/2026/0506/c461001-40714607.html)** — 日均超3亿人次，创历史同期新高，文旅消费全面迸发
-4. **[湖南浏阳烟花厂爆炸致26死61伤](https://news.bjd.com.cn/2026/05/06/11727682.shtml)** — 国务院将成立事故调查组，严肃追责问责
-5. **[A股5月6日迎开门红，科创50涨超9%](https://m.sohu.com/a/1019016919_122014422)** — 算力租赁、芯片概念爆发，全市场超3800只个股上涨
+1. **[王毅同伊朗外长阿拉格齐会谈](https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=1108194&sid=11)** — 中方支持建立战后地区新架构，中东局势处于战和转换关键节点。
 
----
+2. **[特朗普称美伊"很有可能"达成协议](https://finance.sina.com.cn/stock/cpbd/2026-05-07/doc-inhwzmmr8555716.shtml)** — 但面对面和平谈判"为时尚早"，霍尔木兹海峡问题成焦点。
+
+3. **[英伟达市值重回5万亿美元，AMD创历史新高](https://finance.sina.com.cn/stock/cpbd/2026-05-07/doc-inhwzmmr8555716.shtml)** — 美股三大指数集体收涨，纳指涨2.02%续创新高，科技股强势领跑。
+
+4. **[国内首个卫星物联网业务商用试验企业获批](https://finance.sina.com.cn/stock/y/2026-05-07/doc-inhwzmmr2916907.shtml)** — 国电高科获工信部批复，依托"天启星座"提供广覆盖物联网连接服务。
+
+5. **[在岸人民币对美元创三年来新高](https://finance.sina.com.cn/stock/y/2026-05-07/doc-inhwzmmr2916907.shtml)** — 收盘报6.8149，较上一交易日上涨186点，为2023年2月以来最高。
+
+6. **[中国AI专利数量占全球总量的60%](https://www.nbd.com.cn/articles/2026-05-06/4380860.html)** — 中国常驻联合国代表表示坚持走开源开放AI创新之路，加快构建普惠全球的技术创新生态。
 
 ## 🤖 AI 动态
 
-1. **[Anthropic年化营收ARR达440亿美元，估值冲击9000亿美元上市](https://www.chinaventure.com.cn/news/80-20260506-391241.html)** — 受益于Claude Code爆发，已超越OpenAI；亚马逊追加250亿美元投资，谷歌承诺400亿美元
-2. **[OpenAI发布GPT-5.5 Instant成ChatGPT默认模型](https://www.tmtpost.com/7977089.html)** — AIME数学测试得分81.2（提升15.8分），MMMU-Pro多模态推理76.0分，敏感领域幻觉减少
-3. **[Anthropic与黑石、高盛成立新AI服务公司](https://finance.sina.com.cn/tech/digi/2026-05-06/doc-inhwuxfk7297977.shtml)** — 面向中型企业落地Claude定制解决方案，企业级市场扩张加速
-4. **[OpenAI 2026年算力支出将达500亿美元](https://www.tmtpost.com/7977089.html)** — AI基础设施竞争进入新阶段，推理业务毛利率已超70%
-5. **[Meta推出代理型AI助手Hatch，谷歌开发7×24小时Gemini个人代理](https://www.tmtpost.com/7977089.html)** — 智能体赛道全面升温，各大厂纷纷布局全天候AI代理
+1. **[Anthropic与SpaceX签署算力协议](https://finance.sina.com.cn/tech/2026-05-07/doc-inhwzfct8628395.shtml)** — Anthropic将使用SpaceX孟菲斯Colossus 1数据中心全部容量，年化收入实现80倍增长。
 
----
+2. **[苹果"夸大AI功能"支付2.5亿美元和解](https://www.nbd.com.cn/articles/2026-05-06/4380860.html)** — 因误导数百万iPhone买家对"苹果智能"能力的认知，部分用户可获赔25至95美元。
+
+3. **[马斯克称GB300是目前最强AI计算机](http://k.sina.com.cn/article_5953190046_162d6789e067032yog.html)** — 英伟达新一代AI芯片再获重磅背书，AI算力竞赛持续升温。
+
+4. **[英伟达与康宁建立长期合作加强AI基建](https://finance.sina.com.cn/stock/cpbd/2026-05-07/doc-inhwzmmr8555716.shtml)** — 康宁将新建三家美国工厂，把美国光连接产能提升10倍。
+
+5. **[DeepSeek被曝投后估值或达450亿美元](https://finance.sina.com.cn/stock/y/2026-05-07/doc-inhwzmmr2916907.shtml)** — 国家大基金正在洽谈主导首轮融资，估值尚未最终确认。
+
+6. **[四川省发布"人工智能+"一号创新工程实施方案](http://finance.sina.com.cn/jjxw/2026-05-07/doc-inhwzfct8650923.shtml)** — 明确到2027年实现AI与重点领域广泛深度融合，2035年全面步入智能经济新阶段。
+
+7. **[理想汽车App更新接入R1模型](http://k.sina.com.cn/article_7857141524_1d45277140190295yk.html)** — 支持深度思考、联网搜索和连续对话，从车机延伸至手机端智能助手。
+
+8. **[AI智能体安全引发全行业高度关注](http://k.sina.com.cn/article_5952915705_162d248f906702w43a.html)** — OpenClaw高危漏洞集中暴露、技能包投毒攻击活跃，多方发力布局智能体安全。
 
 #### ⭐ GitHub 热榜
 
-- **[obra/superpowers](https://github.com/obra/superpowers)** — Agentic技能框架与软件开发方法论 ⭐ 154.2k
-- **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** — AI代理创建、部署和运行时管理平台 ⭐ 182k
-- **[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** — Stable Diffusion本地图像生成控制台 ⭐ 162k
-- **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** — 多智能体交易框架，模拟真实对冲基金架构 ⭐ 62.6k
-- **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** — Claude Code记忆插件，自动捕获并注入历史上下文 ⭐ 57.8k
-
----
+- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** — 与你一起成长的AI代理 ⭐ 135.5k
+- **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** — 改进Claude Code行为的技能库 ⭐ 116.1k
+- **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** — 多代理LLM金融交易框架 ⭐ 70.1k
+- **[ruvnet/claude-flow](https://github.com/ruvnet/claude-flow)** — Claude领先的代理编排平台 ⭐ 42.9k
+- **[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)** — 自适应Web抓取框架 ⭐ 45.9k
+- **[Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)** — 终端中的DeepSeek编码代理 ⭐ 12.9k
 
 ### 🔮 AI 趋势观察
 
-Anthropic凭借Claude Code在企业级编程助手赛道实现弯道超车，年化营收从300亿跃升至440亿美元，估值逼近9000亿美元。OpenAI则以GPT-5.5 Instant回应，数学和多模态能力显著提升。两家巨头都在冲刺IPO，AI行业正从"模型竞赛"进入"商业化变现"的白热化阶段。
-
----
-
-*早报由 AI 自动整理生成 | 2026-05-06*
+今天AI领域最显著的信号是"算力军备竞赛"与"智能体安全"同时升温。Anthropic与SpaceX达成算力合作、英伟达加强与康宁的光纤基础设施布局，都表明大模型训练推理需求正在倒逼底层硬件产能扩张。与此同时，OpenClaw高危漏洞集中暴露、技能包投毒攻击活跃，AI智能体安全正从"边缘话题"变成产业刚需。开源开放与安全防护，成为AI规模化落地的两个并行命题。
