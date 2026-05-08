@@ -1,44 +1,30 @@
 ## 📰 综合要闻
 
-1. **[王毅同伊朗外长阿拉格齐会谈](https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=1108194&sid=11)** — 中方支持建立战后地区新架构，中东局势处于战和转换关键节点。
-
-2. **[特朗普称美伊"很有可能"达成协议](https://finance.sina.com.cn/stock/cpbd/2026-05-07/doc-inhwzmmr8555716.shtml)** — 但面对面和平谈判"为时尚早"，霍尔木兹海峡问题成焦点。
-
-3. **[英伟达市值重回5万亿美元，AMD创历史新高](https://finance.sina.com.cn/stock/cpbd/2026-05-07/doc-inhwzmmr8555716.shtml)** — 美股三大指数集体收涨，纳指涨2.02%续创新高，科技股强势领跑。
-
-4. **[国内首个卫星物联网业务商用试验企业获批](https://finance.sina.com.cn/stock/y/2026-05-07/doc-inhwzmmr2916907.shtml)** — 国电高科获工信部批复，依托"天启星座"提供广覆盖物联网连接服务。
-
-5. **[在岸人民币对美元创三年来新高](https://finance.sina.com.cn/stock/y/2026-05-07/doc-inhwzmmr2916907.shtml)** — 收盘报6.8149，较上一交易日上涨186点，为2023年2月以来最高。
-
-6. **[中国AI专利数量占全球总量的60%](https://www.nbd.com.cn/articles/2026-05-06/4380860.html)** — 中国常驻联合国代表表示坚持走开源开放AI创新之路，加快构建普惠全球的技术创新生态。
+1. **[习近平抵达莫斯科出席卫国战争胜利80周年庆典](https://www.yuueasy.com/news-24-7037-0.html)** — 5月7日晚国家主席习近平乘专机抵达莫斯科，应普京邀请对俄罗斯进行国事访问并出席纪念苏联伟大卫国战争胜利80周年庆典
+2. **[中办国办印发《美丽中国建设成效考核办法》](https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=1108771&sid=11)** — 考核每年开展1次，采用百分制评分，结果作为省区市党委政府领导班子综合考核评价的重要参考
+3. **[巴西宣布对中国公民实施免签入境](https://xinwen.bjd.com.cn/content/s69fd25a3e4b0cd719ea1b3d1.html)** — 自2026年5月11日起，对持普通护照的中国公民实施免签入境政策
+4. **[俄罗斯宣布5月8日至10日停火](https://sputniknews.cn/)** — 俄方宣布在特别军事行动区停火将于5月8日和9日生效
+5. **[三星电子宣布退出中国大陆家电市场](https://finance.sina.com.cn/headline/2026-05-08/doc-inhxcqkt4625593.shtml)** — 停止销售电视、显示器等所有家电产品，但继续提供售后服务，专注核心芯片业务
 
 ## 🤖 AI 动态
 
-1. **[Anthropic与SpaceX签署算力协议](https://finance.sina.com.cn/tech/2026-05-07/doc-inhwzfct8628395.shtml)** — Anthropic将使用SpaceX孟菲斯Colossus 1数据中心全部容量，年化收入实现80倍增长。
-
-2. **[苹果"夸大AI功能"支付2.5亿美元和解](https://www.nbd.com.cn/articles/2026-05-06/4380860.html)** — 因误导数百万iPhone买家对"苹果智能"能力的认知，部分用户可获赔25至95美元。
-
-3. **[马斯克称GB300是目前最强AI计算机](http://k.sina.com.cn/article_5953190046_162d6789e067032yog.html)** — 英伟达新一代AI芯片再获重磅背书，AI算力竞赛持续升温。
-
-4. **[英伟达与康宁建立长期合作加强AI基建](https://finance.sina.com.cn/stock/cpbd/2026-05-07/doc-inhwzmmr8555716.shtml)** — 康宁将新建三家美国工厂，把美国光连接产能提升10倍。
-
-5. **[DeepSeek被曝投后估值或达450亿美元](https://finance.sina.com.cn/stock/y/2026-05-07/doc-inhwzmmr2916907.shtml)** — 国家大基金正在洽谈主导首轮融资，估值尚未最终确认。
-
-6. **[四川省发布"人工智能+"一号创新工程实施方案](http://finance.sina.com.cn/jjxw/2026-05-07/doc-inhwzfct8650923.shtml)** — 明确到2027年实现AI与重点领域广泛深度融合，2035年全面步入智能经济新阶段。
-
-7. **[理想汽车App更新接入R1模型](http://k.sina.com.cn/article_7857141524_1d45277140190295yk.html)** — 支持深度思考、联网搜索和连续对话，从车机延伸至手机端智能助手。
-
-8. **[AI智能体安全引发全行业高度关注](http://k.sina.com.cn/article_5952915705_162d248f906702w43a.html)** — OpenClaw高危漏洞集中暴露、技能包投毒攻击活跃，多方发力布局智能体安全。
+1. **[Anthropic年化营收突破300亿美元，租用SpaceX 22万GPU](https://juejin.cn/post/7637066572499976198)** — AI算力需求呈指数级增长，Anthropic接管SpaceX孟菲斯Colossus 1数据中心，获得22万块英伟达GPU和300兆瓦电力
+2. **[OpenAI发布GPT-Realtime-2实时语音模型系列](https://juejin.cn/post/7637066572499976198)** — 集成于Realtime API，语音转写每分钟0.017美元，端到端延迟控制在200毫秒内，支持100多种语言
+3. **[马斯克宣布xAI并入SpaceX，成立SpaceXAI](https://www.nbd.com.cn/articles/2026-05-07/4382794.html)** — xAI解散并停止作为独立公司运营，Grok及X平台AI业务纳入SpaceXAI体系，十二位联合创始人中九位已离职
+4. **[无问芯穹获超7亿元融资](https://finance.eastmoney.com/a/202605083730561755.html)** — 居中国AI原生基础设施公司融资规模之首，投后估值跻身国内第一梯队，专注高性能算力调度
+5. **[中国信通院联合腾讯华为发起智能体可信握手协议ATH](https://juejin.cn/post/7637066572499976198)** — 同步建立智能体开源社区，标志着中国在AI智能体标准化和可信治理方面迈出重要一步
+6. **[寒序科技实现亚洲首个8nm eMRAM AI芯片流片](https://juejin.cn/post/7637066572499976198)** — 支持20亿参数大模型端侧运行，性能对标国际顶尖推理芯片，由三星生态伙伴SEMIFIVE代工
+7. **[阿里千问PC端上线AI语音输入功能](https://finance.eastmoney.com/a/202605083730561755.html)** — 支持口语去语气词、智能纠错、格式化整理，可直接下达创作、问答、翻译等指令，所有用户免费使用
 
 #### ⭐ GitHub 热榜
 
-- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** — 与你一起成长的AI代理 ⭐ 135.5k
-- **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** — 改进Claude Code行为的技能库 ⭐ 116.1k
-- **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** — 多代理LLM金融交易框架 ⭐ 70.1k
-- **[ruvnet/claude-flow](https://github.com/ruvnet/claude-flow)** — Claude领先的代理编排平台 ⭐ 42.9k
-- **[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)** — 自适应Web抓取框架 ⭐ 45.9k
-- **[Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)** — 终端中的DeepSeek编码代理 ⭐ 12.9k
+- **[n8n-io/n8n](https://github.com/n8n-io/n8n)** — 工作流自动化平台，400+集成，原生AI Agent节点，自托管无限执行 ⭐ 184k
+- **[ollama/ollama](https://github.com/ollama/ollama)** — 本地LLM最简单运行方案，一条命令启动DeepSeek/Qwen/Gemma等 ⭐ 169k
+- **[langgenius/dify](https://github.com/langgenius/dify)** — AI应用开发平台，可视化编排+RAG管道+生产级可观测性 ⭐ 139k
+- **[open-webui/open-webui](https://github.com/open-webui/open-webui)** — ChatGPT风格本地模型Web界面，内置离线RAG与语音功能 ⭐ 132k
+- **[browser-use/browser-use](https://github.com/browser-use/browser-use)** — 赋予LLM控制浏览器的能力，基于Playwright自动化导航与数据提取 ⭐ 88k
+- **[badlogic/pi-mono](https://github.com/badlogic/pi-mono)** — AI Agent toolkit，统一LLM API+TUI+Web UI+vLLM pods全家桶 ⭐ 43.9k
 
 ### 🔮 AI 趋势观察
 
-今天AI领域最显著的信号是"算力军备竞赛"与"智能体安全"同时升温。Anthropic与SpaceX达成算力合作、英伟达加强与康宁的光纤基础设施布局，都表明大模型训练推理需求正在倒逼底层硬件产能扩张。与此同时，OpenClaw高危漏洞集中暴露、技能包投毒攻击活跃，AI智能体安全正从"边缘话题"变成产业刚需。开源开放与安全防护，成为AI规模化落地的两个并行命题。
+算力争夺战进入白热化阶段，Anthropic年化收入突破300亿美元并租用SpaceX 22万GPU集群，马斯克将xAI并入SpaceX打造"太空算力"新赛道。国产AI基建加速崛起，无问芯穹获7亿融资、寒序科技实现8nm eMRAM芯片流片、信通院发起智能体可信协议齐发。实时语音交互成为新战场，OpenAI GPT-Realtime-2将延迟压至200毫秒内，语音AI正式进入规模化商用阶段。
