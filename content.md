@@ -1,30 +1,38 @@
 ## 📰 综合要闻
 
-1. **[习近平抵达莫斯科出席卫国战争胜利80周年庆典](https://www.yuueasy.com/news-24-7037-0.html)** — 5月7日晚国家主席习近平乘专机抵达莫斯科，应普京邀请对俄罗斯进行国事访问并出席纪念苏联伟大卫国战争胜利80周年庆典
-2. **[中办国办印发《美丽中国建设成效考核办法》](https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=1108771&sid=11)** — 考核每年开展1次，采用百分制评分，结果作为省区市党委政府领导班子综合考核评价的重要参考
-3. **[巴西宣布对中国公民实施免签入境](https://xinwen.bjd.com.cn/content/s69fd25a3e4b0cd719ea1b3d1.html)** — 自2026年5月11日起，对持普通护照的中国公民实施免签入境政策
-4. **[俄罗斯宣布5月8日至10日停火](https://sputniknews.cn/)** — 俄方宣布在特别军事行动区停火将于5月8日和9日生效
-5. **[三星电子宣布退出中国大陆家电市场](https://finance.sina.com.cn/headline/2026-05-08/doc-inhxcqkt4625593.shtml)** — 停止销售电视、显示器等所有家电产品，但继续提供售后服务，专注核心芯片业务
+1. **[美股三大股指集体收涨，标普与纳指创2024年10月以来最长连涨周期](https://finance.sina.cn/headline/2026-05-09/detail-inhxfxrp7091907.d.html)** — 道指涨0.02%，标普500涨0.84%，纳指涨1.68%，英特尔大涨13.86%。
+
+2. **[俄乌冲突5月9日至11日实行三天停火，双方将交换1000名囚犯](https://finance.sina.cn/headline/2026-05-09/detail-inhxfxrp7091907.d.html)** — 特朗普宣布停火安排，泽连斯基与俄方均证实，特朗普表示停火可能持续超过3天。
+
+3. **[中东局势持续紧张，霍尔木兹海峡连续两天无大型商船通过](https://finance.sina.cn/headline/2026-05-09/detail-inhxfxrp7091907.d.html)** — 伊朗武装部队与美军舰发生"零星冲突"，美军称向两艘伊朗油轮开火使其丧失航行能力。
+
+4. **[苹果与英特尔达成芯片代工协议，由英特尔为苹果设备生产部分芯片](https://tw.stock.yahoo.com/news/美股重點新聞摘要2026年5月9日-000028189.html)** — 双方谈判持续一年多并于近几个月敲定正式协议，英特尔股价连续三周涨逾20%。
+
+5. **[中国发布人工智能终端智能化分级国家标准，首批覆盖7大品类](https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=1085393&sid=11)** — 从L1响应级到L4协同级，手机、电脑、眼镜、汽车座舱等纳入分级，衔接2026年消费品"以旧换新"政策。
 
 ## 🤖 AI 动态
 
-1. **[Anthropic年化营收突破300亿美元，租用SpaceX 22万GPU](https://juejin.cn/post/7637066572499976198)** — AI算力需求呈指数级增长，Anthropic接管SpaceX孟菲斯Colossus 1数据中心，获得22万块英伟达GPU和300兆瓦电力
-2. **[OpenAI发布GPT-Realtime-2实时语音模型系列](https://juejin.cn/post/7637066572499976198)** — 集成于Realtime API，语音转写每分钟0.017美元，端到端延迟控制在200毫秒内，支持100多种语言
-3. **[马斯克宣布xAI并入SpaceX，成立SpaceXAI](https://www.nbd.com.cn/articles/2026-05-07/4382794.html)** — xAI解散并停止作为独立公司运营，Grok及X平台AI业务纳入SpaceXAI体系，十二位联合创始人中九位已离职
-4. **[无问芯穹获超7亿元融资](https://finance.eastmoney.com/a/202605083730561755.html)** — 居中国AI原生基础设施公司融资规模之首，投后估值跻身国内第一梯队，专注高性能算力调度
-5. **[中国信通院联合腾讯华为发起智能体可信握手协议ATH](https://juejin.cn/post/7637066572499976198)** — 同步建立智能体开源社区，标志着中国在AI智能体标准化和可信治理方面迈出重要一步
-6. **[寒序科技实现亚洲首个8nm eMRAM AI芯片流片](https://juejin.cn/post/7637066572499976198)** — 支持20亿参数大模型端侧运行，性能对标国际顶尖推理芯片，由三星生态伙伴SEMIFIVE代工
-7. **[阿里千问PC端上线AI语音输入功能](https://finance.eastmoney.com/a/202605083730561755.html)** — 支持口语去语气词、智能纠错、格式化整理，可直接下达创作、问答、翻译等指令，所有用户免费使用
+1. **[Anthropic拟募资数百亿美元，估值或近万亿美元超越OpenAI](https://www.tmtpost.com/fm/7981569.html)** — 年化收入即将突破450亿美元，2月估值已达3800亿美元，新一轮融资或达500亿美元。
+
+2. **[三部门联合印发《智能体规范应用与创新发展实施意见》](https://www.tmtpost.com/fm/7981569.html)** — 提出19个典型应用场景，明确智能体是具备自主感知、记忆、决策、交互与执行能力的智能系统。
+
+3. **[工信部批复6GHz频段6G技术试验频率](https://www.tmtpost.com/fm/7981569.html)** — 面向国际电信联盟确定的6G典型场景与关键性能指标，开展技术研发攻关和测试验证。
+
+4. **[人工智能终端国家标准上新，从L1到L4四级分级](https://finance.sina.com.cn/jjxw/2026-05-09/doc-inhxfxrt3699629.shtml)** — 采用"2+N"架构，首批覆盖手机、电脑、电视、眼镜、汽车座舱、音箱、耳机7个品类。
+
+5. **[四川发布AI产业发展规划，到2030年产业规模突破4000亿元](https://www.tmtpost.com/fm/7981569.html)** — 集聚人工智能企业2500家以上，新一代智能终端、智能体等应用普及率超90%。
+
+6. **[深圳宝安具身智能港重磅亮相](https://www.sznews.com/news/content/2026-05/09/content_32042423.htm)** — 以制造为根基、以生态为核心，加速崛起为深圳AI产业新地标，机器人核心零部件100%自主可控。
 
 #### ⭐ GitHub 热榜
 
-- **[n8n-io/n8n](https://github.com/n8n-io/n8n)** — 工作流自动化平台，400+集成，原生AI Agent节点，自托管无限执行 ⭐ 184k
-- **[ollama/ollama](https://github.com/ollama/ollama)** — 本地LLM最简单运行方案，一条命令启动DeepSeek/Qwen/Gemma等 ⭐ 169k
-- **[langgenius/dify](https://github.com/langgenius/dify)** — AI应用开发平台，可视化编排+RAG管道+生产级可观测性 ⭐ 139k
-- **[open-webui/open-webui](https://github.com/open-webui/open-webui)** — ChatGPT风格本地模型Web界面，内置离线RAG与语音功能 ⭐ 132k
-- **[browser-use/browser-use](https://github.com/browser-use/browser-use)** — 赋予LLM控制浏览器的能力，基于Playwright自动化导航与数据提取 ⭐ 88k
-- **[badlogic/pi-mono](https://github.com/badlogic/pi-mono)** — AI Agent toolkit，统一LLM API+TUI+Web UI+vLLM pods全家桶 ⭐ 43.9k
+- **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** — 多智能体LLM交易框架 ⭐ 62k
+- **[mattpocock/skills](https://github.com/mattpocock/skills)** — Claude Code技能生态系统 ⭐ 54.8k
+- **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** — 智能体集群编排器，支持RAG与分布式智能 ⭐ 36.5k
+- **[abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)** — 零服务器代码知识图谱，浏览器端运行 ⭐ 34.6k
+- **[microsoft/markitdown](https://github.com/microsoft/markitdown)** — 文档转Markdown工具，支持PDF/Word/Excel/PPT ⭐ ~110k
+- **[OpenClaw](https://github.com/openclaw)** — 开源个人AI助手，支持多渠道连接，社区技能超5700个 ⭐ ~362k
 
 ### 🔮 AI 趋势观察
 
-算力争夺战进入白热化阶段，Anthropic年化收入突破300亿美元并租用SpaceX 22万GPU集群，马斯克将xAI并入SpaceX打造"太空算力"新赛道。国产AI基建加速崛起，无问芯穹获7亿融资、寒序科技实现8nm eMRAM芯片流片、信通院发起智能体可信协议齐发。实时语音交互成为新战场，OpenAI GPT-Realtime-2将延迟压至200毫秒内，语音AI正式进入规模化商用阶段。
+Anthropic估值逼近万亿的消息标志着AI赛道资本热度达到新高度，年化收入450亿美元的规模已远超去年同期的90亿美元，增速惊人。与此同时，中国从标准层面加速AI终端落地——分级国标与"以旧换新"政策衔接，意味着AI手机、AI眼镜等硬件将在下半年迎来一波政策驱动的换机潮。软硬件两端同时爆发，AI正从"技术浪潮"转向"产业基建"。
