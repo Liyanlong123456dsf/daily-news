@@ -1,40 +1,35 @@
 ## 📰 综合要闻
 
-1. **[天舟十号货运飞船发射圆满成功](http://www.china.com.cn/txt/2026-05/11/content_118486829.shtml)** — 5月11日8时14分，长征七号遥十一运载火箭搭载天舟十号在文昌发射，奔赴中国空间站，为在轨航天员补给物资。
+1. **[特朗普将于5月13-15日访华，时隔9年美国总统再次访华](https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=1110758&sid=11)** — 中美两国元首继去年10月釜山之后再次面对面会晤，将就事关中美关系及世界和平发展重大问题深入交换意见。
 
-2. **[特朗普拒绝伊朗停火提议，国际油价剧烈波动](https://finance.sina.cn/headline/2026-05-11/detail-inhxnmvu2546493.d.html)** — 美方称伊朗回应"完全不可接受"，布伦特原油一度涨3.5%至104.80美元，霍尔木兹海峡近乎封锁引发史上最大供应冲击担忧。
+2. **[天舟十号货运飞船成功发射并与空间站对接](https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=1110758&sid=11)** — 5月11日文昌发射场成功发射，飞船顺利对接天和核心舱后向端口，将创12个月在轨停靠纪录。
 
-3. **[何立峰将于5月12-13日赴韩国与美方举行经贸磋商](https://finance.sina.cn/headline/2026-05-11/detail-inhxnmvu2546493.d.html)** — 中美经贸磋商将以两国元首釜山会晤共识为引领，就彼此关心的经贸问题展开对话。
+3. **[标普500指数首次收于7400点上方，纳指再创新高](https://finance.sina.com.cn/headline/2026-05-12/doc-inhxqquv8595597.shtml)** — 美伊局势不确定下美股展现韧性，投资者聚焦本周CPI数据，芯片股集体上涨。
 
-4. **[中国前4个月货物贸易进出口同比增长14.9%](https://www.cls.cn/detail/2367419)** — 海关总署数据显示，前4个月进出口总值16.23万亿元，出口增长11.3%，进口增长20%。
-
-5. **[中国对53个非洲建交国全面实施零关税](http://ydyl.china.com.cn/2026-05/11/content_118486878.shtml)** — 自5月1日起成为全球首个对所有非洲建交国实现单方面、全覆盖零关税待遇的主要经济体。
+4. **[沙特阿美警告全球燃油库存逼近"临界低点"](https://finance.sina.com.cn/stock/usstock/c/2026-05-12/doc-inhxqknz0185981.shtml)** — 霍尔木兹海峡航运中断致全球原油累计流失约10亿桶，若中断持续数周供应缺口将延续至2027年。
 
 ## 🤖 AI 动态
 
-1. **[DeepSeek拟募资500亿元，创中国AI公司单轮融资纪录](http://finance.sina.com.cn/wm/2026-05-11/doc-inhxnmvu2514501.shtml)** — 梁文锋个人计划出资200亿元占40%，投后估值将达3500亿元，标志着这家成立仅三年的公司进入加速扩张期。
+1. **[阿里千问与淘宝全面打通，开启AI购物全新体验](https://www.tmtpost.com/fm/7984124.html)** — 全球超大规模电商平台与顶级大模型应用首次深度融合，支持AI试穿、算优惠、低价帮抢等功能。
 
-2. **[马斯克xAI解散并入SpaceX，22万块GPU租给Anthropic](http://k.sina.com.cn/article_7857141524_1d452771401902c6zs.html)** — xAI更名为SpaceXAI不再独立运营；Anthropic将全权使用Colossus 1超算中心300兆瓦算力，Claude Code付费套餐限额翻倍至10小时。
+2. **[腾讯跟投阶跃星辰25亿美元融资，签署战略合作](https://finance.eastmoney.com/a/202605123733532226.html)** — 腾讯连续三轮跟投阶跃，双方整合阶跃大模型与腾讯系生态共同打造AI座舱Agent，阶跃拆除红筹架构加速赴港IPO。
 
-3. **[字节跳动将AI基础设施支出增加25%至2000亿元](http://k.sina.com.cn/article_5952915720_162d2490806703vyso.html)** — 预算较去年底方案提升至少25%，并计划把更大比例资金投向国产AI芯片，与阿里正面竞速大模型商业化。
+3. **[360启动"龙虾计划"，向全员配发1亿Token算力资源](https://www.tmtpost.com/fm/7984124.html)** — 推动员工从"使用AI工具"向"带着AI团队工作"转型，内置上百个专业智能体覆盖代码、经营分析等场景。
 
-4. **[特斯拉中国市场弃用Grok，全面接入DeepSeek](http://k.sina.com.cn/article_7857141524_1d452771401902cjhm.html)** — 特斯拉在华车辆VIN注册信息中AI子类别已标注DeepSeek，与全球市场采用Grok的策略形成鲜明对比。
+4. **[快手计划分拆可灵AI，融资20亿美元估值200亿美元](https://wallstreetcn.com/articles/3772022)** — 可灵年化收入已达5亿美元且春节前翻倍，腾讯参与本轮融资，估值接近快手母公司整体市值。
 
-5. **[国内首台双核原子量子计算机正式发布](https://www.cls.cn/detail/2367419)** — 首次将量子处理器从"单核"升级为"双核"，在股票组合优化、蛋白质设计、新药研发等方向前景广阔。
+5. **[英伟达下一代旗舰AI芯片Vera Rubin 6月试产、7月出货](https://wallstreetcn.com/articles/3772022)** — 每套机架售价约1.8亿美元，首批交付微软、谷歌、亚马逊等巨头，台积电3nm制程已率先开跑。
 
-6. **[中国移动上线国内最大大模型服务平台](https://www.cls.cn/detail/2367419)** — 接入并提供300余款国内主流AI大模型服务，是国内汇聚大模型数量最多的平台。
-
-7. **[三部门印发《智能体规范应用与创新发展实施意见》](https://www.cls.cn/detail/2367419)** — 促进智能体与数控机床、工业机器人、自动化产线等融合，推动工业领域提质增效降本。
+6. **[摩根士丹利：中国AI主导叙事从"追赶"转向"改写规则"](https://wallstreetcn.com/articles/3772022)** — 核心逻辑已从训练转向推理、从技术转向应用，应用层追赶行情将是下一个核心主线。
 
 #### ⭐ GitHub 热榜
 
-- **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** — 多智能体LLM金融交易框架，连续四周高速增长 ⭐ 62K
-- **[mattpocock/skills](https://github.com/mattpock/skills)** — Claude Code 生产级工程技能库，十天从23K冲到55K ⭐ 54.8K
-- **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** — Agent Swarm 编排器，支持RAG与分布式智能，原生集成Claude Code ⭐ 36.5K
-- **[abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)** — 零服务器代码知识图谱引擎，浏览器内跑Graph RAG ⭐ 34.6K
-- **[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)** — 字节开源多模态AI Agent桌面栈，连接前沿模型与Agent基础设施
-- **[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)** — 微软前沿语音AI家族，支持90分钟长语音合成与60分钟音频单次识别 ⭐  trending
+- **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** — 多智能体LLM金融交易框架 ⭐ 72.5k
+- **[mattpocock/skills](https://github.com/mattpocock/skills)** — 大牛开源私藏Claude实战技能库 ⭐ 68.0k
+- **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** — 专为Claude打造的智能体编排平台，支持自学习多智能体集群 ⭐ 47.8k
+- **[virattt/dexter](https://github.com/virattt/dexter)** — 深度金融研究自主智能体 ⭐ 25.0k
+- **[AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)** — AI全自动短视频引擎，从创意到成片全流程自动化 ⭐ 14.2k
 
 ### 🔮 AI 趋势观察
 
-今天AI领域最值得关注的核心信号是"算力军备竞赛白热化"：字节将AI开支加至2000亿、DeepSeek豪赌500亿融资、马斯克把22万块GPU租给Anthropic——大厂在基础设施层的投入已不计成本。与此同时，国内首台双核量子计算机和300+模型聚合平台的上线，标志着中国正从"模型追赶"转向"算力自主+生态聚合"的双轨并进。智能体与工业制造的融合政策落地，则暗示AI的下一个主战场正在从对话走向产线。
+大模型与实体商业场景深度融合成为本周核心主线——阿里千问接入淘宝、腾讯押注阶跃AI座舱Agent，标志AI正从"辅助工具"升级为"基础设施"。同时英伟达Vera Rubin芯片即将出货、快手可灵AI以200亿美元估值分拆融资，说明算力军备与视频生成两条赛道仍在高速放量。中国AI的叙事逻辑也在悄然转向：从模型参数竞赛，转向应用层价值捕获。
