@@ -1,35 +1,30 @@
 ## 📰 综合要闻
 
-1. **[特朗普将于5月13-15日访华，时隔9年美国总统再次访华](https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=1110758&sid=11)** — 中美两国元首继去年10月釜山之后再次面对面会晤，将就事关中美关系及世界和平发展重大问题深入交换意见。
-
-2. **[天舟十号货运飞船成功发射并与空间站对接](https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=1110758&sid=11)** — 5月11日文昌发射场成功发射，飞船顺利对接天和核心舱后向端口，将创12个月在轨停靠纪录。
-
-3. **[标普500指数首次收于7400点上方，纳指再创新高](https://finance.sina.com.cn/headline/2026-05-12/doc-inhxqquv8595597.shtml)** — 美伊局势不确定下美股展现韧性，投资者聚焦本周CPI数据，芯片股集体上涨。
-
-4. **[沙特阿美警告全球燃油库存逼近"临界低点"](https://finance.sina.com.cn/stock/usstock/c/2026-05-12/doc-inhxqknz0185981.shtml)** — 霍尔木兹海峡航运中断致全球原油累计流失约10亿桶，若中断持续数周供应缺口将延续至2027年。
+1. **[特朗普今日开启访华之旅](https://news.qq.com/rain/a/20260512A028WV00)** — 应习近平主席邀请，特朗普总统于5月13日至15日对中国进行国事访问，随行包括16位美国商界领袖，中美经贸磋商同步推进。
+2. **[4月CPI同比上涨1.2%，PPI同比上涨2.8%](https://news.qq.com/rain/a/20260512A028WV00)** — 国家统计局发布数据显示消费价格温和回升，工业生产者出厂价格涨幅扩大，经济运行总体平稳。
+3. **[黄河旋风金刚石复合材料技术获重大突破](https://news.qq.com/rain/a/20260512A028WV00)** — 热导率突破700W/(m·K)，成功破解半导体产业热膨胀失配难题，为AI算力向千瓦级升级提供散热方案。
+4. **[中芯国际406亿重组方案获批](https://news.qq.com/rain/a/20260512A028WV00)** — 发行股份购买资产获上交所并购重组委审议通过，交易完成后将实现对中芯北方100%控股。
+5. **[央行：继续实施适度宽松货币政策](https://news.qq.com/rain/a/20260512A028WV00)** — 一季度货币政策执行报告强调保持流动性充裕和社会融资条件相对宽松，加强货币财政政策协同配合。
 
 ## 🤖 AI 动态
 
-1. **[阿里千问与淘宝全面打通，开启AI购物全新体验](https://www.tmtpost.com/fm/7984124.html)** — 全球超大规模电商平台与顶级大模型应用首次深度融合，支持AI试穿、算优惠、低价帮抢等功能。
-
-2. **[腾讯跟投阶跃星辰25亿美元融资，签署战略合作](https://finance.eastmoney.com/a/202605123733532226.html)** — 腾讯连续三轮跟投阶跃，双方整合阶跃大模型与腾讯系生态共同打造AI座舱Agent，阶跃拆除红筹架构加速赴港IPO。
-
-3. **[360启动"龙虾计划"，向全员配发1亿Token算力资源](https://www.tmtpost.com/fm/7984124.html)** — 推动员工从"使用AI工具"向"带着AI团队工作"转型，内置上百个专业智能体覆盖代码、经营分析等场景。
-
-4. **[快手计划分拆可灵AI，融资20亿美元估值200亿美元](https://wallstreetcn.com/articles/3772022)** — 可灵年化收入已达5亿美元且春节前翻倍，腾讯参与本轮融资，估值接近快手母公司整体市值。
-
-5. **[英伟达下一代旗舰AI芯片Vera Rubin 6月试产、7月出货](https://wallstreetcn.com/articles/3772022)** — 每套机架售价约1.8亿美元，首批交付微软、谷歌、亚马逊等巨头，台积电3nm制程已率先开跑。
-
-6. **[摩根士丹利：中国AI主导叙事从"追赶"转向"改写规则"](https://wallstreetcn.com/articles/3772022)** — 核心逻辑已从训练转向推理、从技术转向应用，应用层追赶行情将是下一个核心主线。
+1. **[特斯拉中国车机将接入豆包大模型](http://k.sina.com.cn/article_7857141524_1d452771401902f96y.html)** — 特斯拉Model车机语音系统同时接入字节豆包和DeepSeek Chat，是入华以来车机语音助手最大升级。
+2. **[千问与淘宝全面打通，AI购物全流程闭环](https://news.qq.com/rain/a/20260512A028WV00)** — 用户可在千问App完成商品挑选、对比及下单，淘宝内嵌千问AI购物助手，实现AI试穿、AI算优惠等功能。
+3. **[中国AI终端智能化分级国家标准发布](http://finance.sina.com.cn/jjxw/2026-05-13/doc-inhxspmx7993162.shtml)** — GB/Z 177—2026系列标准发布，明确手机、电脑、汽车座舱等产品的AI智能化分级，推动产业规模优势与标准引领协同发展。
+4. **[三部门发文推动智能体多终端协同发展](http://k.sina.com.cn/article_7857141524_1d452771401902fbc6.html)** — 国家网信办等三部门印发实施意见，推动智能体与手机、电脑、汽车、家居、可穿戴等终端设备协同发展。
+5. **[阶跃星辰25亿美金融资，腾讯跟投](https://news.qq.com/rain/a/20260512A028WV00)** — 老股东腾讯跟投阶跃星辰新一轮25亿美金融资，双方已达成战略合作，将共同发力AI座舱Agent。
+6. **[DeepSeek首轮融资估值达3000亿元](https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=1108531&sid=11)** —  reportedly 450亿美元估值，大基金寻求领投；全球前五开源模型全部为中国模型，一季度API调用量占比超60%。
+7. **[百度职级体系改革，AI能力纳入全员考核](https://m.thepaper.cn/newsDetail_forward_33142325)** — 取消原有T/P/E/M字母职级，统一为5-12级数字体系，将AI工具提效、大模型落地能力纳入绩效考核核心指标。
 
 #### ⭐ GitHub 热榜
 
-- **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** — 多智能体LLM金融交易框架 ⭐ 72.5k
-- **[mattpocock/skills](https://github.com/mattpocock/skills)** — 大牛开源私藏Claude实战技能库 ⭐ 68.0k
-- **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** — 专为Claude打造的智能体编排平台，支持自学习多智能体集群 ⭐ 47.8k
-- **[virattt/dexter](https://github.com/virattt/dexter)** — 深度金融研究自主智能体 ⭐ 25.0k
-- **[AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)** — AI全自动短视频引擎，从创意到成片全流程自动化 ⭐ 14.2k
+- **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** — 多智能体LLM量化交易框架 ⭐ 62K
+- **[mattpocock/skills](https://github.com/mattpocock/skills)** — Claude Code技能生态系统 ⭐ 54.8K
+- **[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)** — 12课入门构建AI Agent ⭐ 57.6K
+- **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** — Agent集群编排平台，支持RAG与分布式智能 ⭐ 36.5K
+- **[abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)** — 零服务端代码知识图谱，浏览器内运行 ⭐ 34.6K
+- **[sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)** — AI驱动的多平台舆情监控与热点筛选工具 ⭐ 53.6K
 
 ### 🔮 AI 趋势观察
 
-大模型与实体商业场景深度融合成为本周核心主线——阿里千问接入淘宝、腾讯押注阶跃AI座舱Agent，标志AI正从"辅助工具"升级为"基础设施"。同时英伟达Vera Rubin芯片即将出货、快手可灵AI以200亿美元估值分拆融资，说明算力军备与视频生成两条赛道仍在高速放量。中国AI的叙事逻辑也在悄然转向：从模型参数竞赛，转向应用层价值捕获。
+中国AI产业正呈现"标准先行、应用落地、资本加注"的三重加速态势：国家层面连发AI终端分级和智能体协同两大政策，千问×淘宝、豆包×特斯拉等巨头合作标志着AI从"对话工具"正式进入"服务闭环"；同时DeepSeek和阶跃的巨额融资显示资本对国产基础模型的信心达到新高度，开源模型在全球API调用中的主导地位也为中国AI基础设施的全球化打开了窗口。
