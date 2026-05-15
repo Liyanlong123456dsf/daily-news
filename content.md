@@ -1,29 +1,55 @@
+# 每日早报｜2026年5月15日
+
+> 📅 2026年5月15日 星期五
+
+---
+
 ## 📰 综合要闻
 
-1. **[特朗普抵达北京开启国事访问，十余位美企高管随行](https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=1111606&sid=11)** — 马斯克、黄仁勋、库克等科技与商界领袖同机抵京，中美经贸与科技合作成焦点议题。
-2. **[中美经贸磋商在韩国举行](https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=1111606&sid=11)** — 何立峰与贝森特就解决彼此关注的经贸问题和拓展务实合作进行坦诚、深入、建设性交流。
-3. **[全球南方媒体智库论坛在开罗举行，中阿合作报告发布](http://mrdx.cn/h5/mrdx/content/20260514/PageArticleIndexLB.htm?pagetonum=01)** — 新华社国家高端智库发布《新时代中阿合作的成就、机遇与展望》，中阿关系迈进全面深化新时代。
-4. **[全国市场监管系统启动破除公平竞争卡点专项行动](http://mrdx.cn/h5/mrdx/content/20260514/PageArticleIndexLB.htm?pagetonum=01)** — 5月至12月在全系统组织开展专项行动，规范竞争秩序。
-5. **[2026深圳国际人工智能展览会今日开幕](https://www.globalomp.com/expo/24422)** — 深圳率先引入全国首部人工智能产业专项立法，展会聚焦AI基础、应用与智能终端。
+1. **[习近平同特朗普会谈，构建"中美建设性战略稳定关系"](http://www.customs.gov.cn/customs/2026-05/15/article_2026051508580851549.html)** — 习近平强调愿同特朗普为中美关系领好航、掌好舵，让2026年成为中美关系继往开来的标志性年份。
+
+2. **[特朗普访华期间涉及2.2-7.5亿美元美股交易](https://finance.sina.cn/headline/2026-05-15/detail-inhxxspq8164953.d.html)** — 美政府道德办公室披露，特朗普买入微软、Meta、英伟达等，交易规模介于2.2亿至约7.5亿美元。
+
+3. **[美股三大股指集体收涨，思科暴涨13.41%](https://finance.sina.cn/headline/2026-05-15/detail-inhxxspq8164953.d.html)** — 道指涨0.75%，纳指涨0.89%；思科因AI业务展望向好市值突破3万亿元，并宣布裁员数千人。
+
+4. **[美联储理事米兰递交辞呈，暂无加息降息理由](https://finance.sina.cn/headline/2026-05-15/detail-inhxxspq8164953.d.html)** — 威廉姆斯表示目前没有加息或降息的理由；美国30年期按揭贷款利率为6.36%。
+
+5. **[日本足协今日公布2026世界杯大名单](https://www.163.com/dy/article/KQJJBDR40549BAP0.html)** — 森保一将在J联赛揭幕纪念日公布征战加拿大、美国、墨西哥世界杯的正赛阵容。
+
+---
 
 ## 🤖 AI 动态
 
-1. **[黄仁勋临时加入特朗普访华随行团](https://k.sina.com.cn/article_5952915720_162d2490806703wv9o.html)** — 英伟达CEO临时增补随团，AI芯片议题与中美科技合作预计成为会谈重点。
-2. **[Google称75%新代码由AI生成，Anthropic Mythos引发白宫安全担忧](https://www.theverge.com/archives/ai-artificial-intelligence/2026/4/14)** — Google新代码AI生成比例从50%跃升至75%，同时白宫 reportedly 正制定AI oversight行政令以防范AI网络攻击风险。
-3. **[OpenAI发布GPT-5.5并重构Codex CLI](https://www.developersdigest.tech/blog/trending-ai-dev-tools-april-2026)** — GPT-5.5 smarter且token效率更高，Codex CLI新增browser hand-off等能力，与Claude Code竞争白热化。
-4. **[Anthropic推出Claude Opus 4.7，编码基准提升13%](https://www.developersdigest.tech/blog/trending-ai-dev-tools-april-2026)** — 在93项内部编码基准上，Opus 4.7较4.6提升约13%，包含4项前代均无法解决的任务。
-5. **[Google发布Gemini 3 Pro与Antigravity平台](https://www.developersdigest.tech/blog/trending-ai-dev-tools-april-2026)** — Gemini 3 Pro agentic与编码行为强化，Antigravity作为agentic IDE-adjacent平台支持端到端任务规划与自验证执行。
-6. **[深圳国际人工智能展览会今日开幕](https://www.globalomp.com/expo/24422)** — 2026深圳AI EXPO C-SSMART开幕，聚焦AI产业解决方案与智能终端，展示中国AI产业高地建设成果。
+1. **[Anthropic企业采用率首超OpenAI](https://www.tmtpost.com/fm/7988963.html)** — Ramp AI Index报告：Anthropic企业采用率4月升至34.4%，OpenAI降至32.3%；过去一年Anthropic增长4倍。
+
+2. **[Anthropic CFO：公司90%代码已由AI编写](https://www.tmtpost.com/fm/7988963.html)** — AI使白领工作重心从执行转向监督，员工逐渐成为AI系统的"监督者"。
+
+3. **[丰田AI篮球机器人CUE7正式首秀](https://k.sina.com.cn/article_7857201856_1d45362c001905ha34.html)** — 身高2.18米的第七代机器人首次实现流畅运球、带球走位，打破此前只会定点投篮的局限。
+
+4. **[何恺明团队发布嵌入式语言流ELF](https://k.sina.com.cn/article_5953466437_162dab0450670akria.html)** — 继LLaDA后，扩散语言模型方向再获突破，为离散文本的连续生成提供新范式。
+
+5. **[百度Create 2026提出"芯云模体"全栈AI战略](https://k.sina.com.cn/article_7857141524_1d452771401902hoig.html)** — 布局芯片-AI云-模型-智能体全栈体系，迎接日均Token调用突破140万亿的亿级Agent时代。
+
+6. **[Claude Code年化收入突破25亿美元](https://www.getpanto.ai/blog/anthropic-ai-statistics)** — Anthropic估值达3800亿美元，Claude Code贡献约20%营收；500+客户年消费超百万美元。
+
+7. **[快鹭AI新品发布会今日在深圳召开](https://www.163.com/dy/article/KSR0UNLA05564COY.html)** — 联动第七届深圳国际人工智能展览会，首发两大AI原生产品，展示下一代智能办公形态。
+
+---
 
 #### ⭐ GitHub 热榜
 
-- **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** — 多智能体LLM量化交易框架 ⭐ 62K
-- **[mattpocock/skills](https://github.com/mattpocock/skills)** — Claude Code技能生态系统标杆 ⭐ 54.8K
-- **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** — Agent Swarm编排器，支持RAG与分布式智能 ⭐ 36.5K
-- **[abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)** — 零服务端代码知识图谱，浏览器内直接运行 ⭐ 34.6K
-- **[microsoft/markitdown](https://github.com/microsoft/markitdown)** — 文档转Markdown工具，LLM管道必备胶水 ⭐ ~109K
-- **[Dify](https://github.com/langgenius/dify)** — 可视化AI工作流与Agent平台 ⭐ ~139K
+- **[obra/superpowers](https://github.com/obra/superpowers)** — 组合式Agent工作流技能库 ⭐ 190,864
+- **[mattpocock/skills](https://github.com/mattpocock/skills)** — 生产级Claude Code工程技能 ⭐ 81,492
+- **[github/spec-kit](https://github.com/github/spec-kit)** — GitHub官方规范驱动开发工具 ⭐ 99,176
+- **[rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)** — 编码Agent持久内存层，支持15+客户端 ⭐ 8,765
+- **[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)** — Rust个人AI代理，集成100+服务 ⭐ 7,411
+
+---
 
 ### 🔮 AI 趋势观察
 
-特朗普访华携马斯克、黄仁勋等科技领袖抵京，标志着AI芯片与科技贸易已成为大国博弈的核心筹码。与此同时，Google宣布75%新代码由AI生成、Claude Opus 4.7与GPT-5.5/Codex CLI密集发布，显示AI编码代理正从"辅助工具"快速进化为开发流程的基础设施。开源侧AI Agent生态（skills、swarm编排、知识图谱）本周热度持续攀升，开发者正围绕Claude Code和Codex构建完整的技能市场与工具链。
+AI编码代理生态进入爆发期：Anthropic企业采用率首次超越OpenAI，Claude Code年化收入突破25亿美元且90%内部代码由AI编写，标志着"Agentic Coding"从实验走向主流。与此同时，GitHub热榜被Agent基础设施（技能定义、持久内存、个人代理）全面主导，百度提出全栈Agent战略迎接日均140万亿Token调用量——2026年的AI竞赛，已从模型能力转向Agent工程化落地。
+
+---
+
+> 📎 每日早报完整版：https://liyanlong123456dsf.github.io/daily-news/2026-05-15.html
