@@ -1,39 +1,28 @@
 ## 📰 综合要闻
 
-1. **[特朗普结束访华，中美达成建设性战略稳定关系共识](https://www.163.com/dy/article/KT1F60J105568W0A.html)** — 两国元首互动近9小时，经贸团队达成多项成果，包括成立贸易和投资理事会、解决农产品市场准入等。
-
-2. **[英伟达H200对华"松绑"落地，10家中国企业获批采购](https://www.163.com/dy/article/KT1F60J105568W0A.html)** — 阿里、腾讯等获准购买H200处理器，最多75000颗，但部分企业收到指导意见后放弃采购。
-
-3. **[苹果M5芯片硬件级安全防线被攻破，全球20亿台设备危了](https://wallstreetcn.com/articles/3772407)** — Anthropic AI模型Claude Mythos联手工程师，5天内攻破MIE防线，标志AI极大降低漏洞利用门槛。
-
-4. **[三星电子或迎史上最大规模罢工，存储产业面临中断风险](https://www.163.com/dy/article/KT1LNTGL05568W0A.html)** — 工会4.1万成员表明罢工意愿，若全面展开生产中断或超一个月，损失或达100万亿韩元。
-
-5. **[4月新增人民币贷款罕见现负值](https://www.163.com/dy/article/KT1F60J105568W0A.html)** — 央行数据显示4月新增贷款-100亿，同比少增2900亿；M2同比增长8.6%，社融同比少增5392亿。
+1. **[中美元首会晤，构建"中美建设性战略稳定关系"](http://mrdx.xinhuanet.com/index.htm)** — 双方就经贸、科技、人文等领域达成多项共识，为未来关系奠定框架。
+2. **[第二艘国产大型邮轮"爱达·花城号"完成试航](http://mrdx.xinhuanet.com/index.htm)** — 中国邮轮制造业再添里程碑，标志着高端船舶建造能力持续突破。
+3. **[俄罗斯总统普京将于5月19日至20日访华](http://mrdx.xinhuanet.com/index.htm)** — 中俄高层互动频繁，预计将签署多项双边合作协议。
+4. **[中美经贸磋商达成初步成果](http://mrdx.xinhuanet.com/index.htm)** — 双方在关税、市场准入等议题上取得进展，缓解贸易摩擦预期。
+5. **[加密货币全线跳水，超15万人爆仓](https://www.163.com/dy/article/KT41ISLR05568W0A.html)** — 比特币、以太坊等主流币种大幅回调，市场避险情绪升温。
 
 ## 🤖 AI 动态
 
-1. **[腾讯AI推出"吐司"，零基础自然语言开发App](https://wallstreetcn.com/articles/3772407)** — 探索型vibe coding产品，用户仅凭自然语言描述即可让AI完成功能拆解到App打包全流程。
-
-2. **[中国AI从"追赶"走向"并跑"，具身智能迈入商业化最后一公里](http://finance.sina.com.cn/roll/2026-05-15/doc-inhxyyie6320084.shtml)** — 上海交大宋海涛表示，近三年国内模型能力提升斜率比美国高出23个百分点，差距正加速缩小。
-
-3. **[杭州国际具身机器人场景应用大赛开幕](http://finance.sina.com.cn/roll/2026-05-15/doc-inhxyyih3101123.shtml)** — 200多支队伍同台竞技，设置人形机器人拳击、火灾救援、移动算法与导航避障等赛题。
-
-4. **[小米×武大3B模型学会共情，入选CVPR 2026](http://k.sina.com.cn/article_5953190046_162d6789e067034zea.html)** — 多模态大模型在情绪计算维度突破，暴打一众强化学习基线。
-
-5. **[东北师大联合智谱发布"师道"教师教育垂直大模型](http://finance.sina.com.cn/jjxw/2026-05-15/doc-inhxyyii5126595.shtml)** — 聚焦教师教育学科，响应国家"人工智能+"战略，推动教育数智变革。
-
-6. **[上海AI实验室发起AI全环节软硬件验证合作计划](http://k.sina.com.cn/article_5953190046_162d6789e067034zh4.html)** — 燧原科技等成为首批共建成员，拟分场景建设自主AI软硬件能力验证环境。
+1. **[OpenAI GPT-5.5 正式上线并设为 ChatGPT 默认模型](https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/)** — 代号"Spud"，幻觉率较上代降低52.5%，STEM推理与多模态能力显著增强，5月5日起全面替换GPT-5.3 Instant。
+2. **[Anthropic 发布 Claude Mythos Preview 网络安全专用模型](https://techjacksolutions.com/ai-tools/anthropic-claude/what-is-claude-mythos/)** — 代号"Capybara"，CyberGym漏洞发现率达83.1%，仅向Project Glasswing合作伙伴开放，曾发现27年前的OpenBSD漏洞。
+3. **[OpenAI 推出 Daybreak 网络安全防御计划](https://www.scriptbyai.com/timeline-of-chatgpt/)** — 联合微软、CrowdStrike等安全厂商，将GPT-5.5级模型能力注入企业级漏洞检测与响应流程。
+4. **[OpenAI 发布三款实时语音 API 模型](https://www.scriptbyai.com/timeline-of-chatgpt/)** — GPT-Realtime-2支持自然对话推理，GPT-Realtime-Translate覆盖70+语言实时互译，GPT-Realtime-Whisper实现流式语音转录。
+5. **[特朗普政府 AI 监管立场转变](https://www.cfpublic.org/2026-05-14/how-trump-may-be-changing-his-stance-on-ai-regulation)** — 从反对联邦干预转向支持国会层面AI安全立法，或推动美国首部综合性AI监管法案落地。
 
 #### ⭐ GitHub 热榜
 
-- **[openclaw/openclaw](https://github.com/openclaw/openclaw)** — 开源个人AI助手，支持多频道接入，ClawHub技能生态超5700个 ⭐ 362k
-- **[n8n-io/n8n](https://github.com/n8n-io/n8n)** — 工作流自动化平台，400+集成，AI Agent节点原生支持 ⭐ 184k
-- **[ollama/ollama](https://github.com/ollama/ollama)** — 本地LLM一键运行，支持DeepSeek/GLM-5/Qwen等数十种模型 ⭐ 169k
-- **[langgenius/dify](https://github.com/langgenius/dify)** — 可视化AI工作流构建平台，内置RAG与100+ LLM提供商支持 ⭐ 139k
-- **[open-webui/open-webui](https://github.com/open-webui/open-webui)** — ChatGPT风格本地模型Web界面，内置RAG与语音功能 ⭐ 132k
-- **[deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)** — 开源推理模型，数学代码逻辑媲美OpenAI o1，API成本低90% ⭐ 80k+
-- **[browser-use/browser-use](https://github.com/browser-use/browser-use)** — 让任何LLM控制浏览器，支持导航/点击/填表/数据提取 ⭐ 88k
+- **[obra/superpowers](https://github.com/obra/superpowers)** — AI智能体技能框架与软件开发方法论 ⭐ 154.3k
+- **[microsoft/markitdown](https://github.com/microsoft/markitdown)** — 微软开源文档转Markdown工具，支持PDF/Word/PPT等 ⭐ 109.5k
+- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** — 自我进化型AI Agent，支持跨会话学习与长期记忆 ⭐ 51.7k
+- **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** — 改进Claude Code行为的技能库，源自Karpathy对LLM编码陷阱的观察 ⭐ 83.6k
+- **[coleam00/Archon](https://github.com/coleam00/Archon)** — 确定性AI编码工作流引擎，让AI编程更可预测、可复现 ⭐ 约3.0k
+- **[RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code)** — 将完整AI开发团队搬进代码编辑器的多Agent协同工具 ⭐ 23.6k
 
 ### 🔮 AI 趋势观察
 
-今日AI领域核心动向：一是**AI安全攻防进入新纪元**——Anthropic的Claude Mythos仅用5天攻破苹果M5芯片硬件级防线，标志AI辅助攻击能力已威胁传统硬件安全体系；二是**中国AI产业化全面加速**——从腾讯"吐司"降低开发门槛到具身智能大赛密集落地，AI正从实验室快速渗透至制造业、教育业和消费级应用，"追赶"叙事正在转向"并跑" reality。
+本周AI领域呈现"能力升级"与"安全管控"并行的双主线：OpenAI GPT-5.5全面铺开，标志着长时推理与低幻觉成为大模型新基准；与此同时，Anthropic将最强模型Mythos锁入封闭生态，以"安全优先"策略应对网络攻防风险。开源社区则持续围绕Agent工程化发力，从技能框架到记忆系统，开发者正将AI助手从"聊天工具"重构为"可协作的团队成员"。
